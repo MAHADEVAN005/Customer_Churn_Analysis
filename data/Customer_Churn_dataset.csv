@@ -1,0 +1,1001 @@
+CustomerID,Gender,Age,Tenure,SubscriptionType,MonthlyCharges,TotalSpend,ContractPeriod,SupportTickets,InternetUsageGB,PaymentMode,Region,OffersUsed,LastInteractionDays,PartnerOrReferal,ActiveServiceCount,HasBackupPlan,CustomerSatisfaction,Churn
+CUST1000,Male,19,12,Yearly,1560,20164,1 yr,5,65.48,UPI,South,4,10,Yes,1,Yes,2,No
+CUST1001,Female,48,35,Monthly,2837,17568,2 yr,1,126.95,Credit Card,South,2,14,Yes,3,Yes,2,Yes
+CUST1002,Male,31,17,Yearly,2788,19102,3 yr,3,256.73,NetBanking,East,0,25,Yes,4,Yes,3,No
+CUST1003,Female,18,16,Monthly,2134,2031,2 yr,6,57.2,NetBanking,South,0,21,Yes,4,Yes,1,Yes
+CUST1004,Male,37,8,Yearly,2317,11046,3 yr,5,268.32,Credit Card,North,3,26,Yes,4,Yes,5,No
+CUST1005,Female,58,15,Yearly,1750,1948,2 yr,0,217.76,NetBanking,East,1,27,No,3,Yes,3,Yes
+CUST1006,Male,36,21,Yearly,2077,4866,1 yr,6,110.68,Credit Card,North,2,21,Yes,4,Yes,5,No
+CUST1007,Male,59,19,Monthly,2551,20154,1 yr,5,142.35,NetBanking,West,3,20,Yes,3,No,5,No
+CUST1008,Male,20,9,Monthly,516,21687,2 yr,3,107.83,Credit Card,North,3,3,No,1,No,3,No
+CUST1009,Male,45,2,Yearly,2308,9242,1 yr,4,274.36,NetBanking,East,0,10,No,2,Yes,5,No
+CUST1010,Male,54,10,Monthly,1740,24074,2 yr,0,179.74,UPI,West,2,7,No,1,Yes,1,Yes
+CUST1011,Male,59,31,Monthly,1348,6213,1 yr,3,81.05,UPI,East,1,10,No,3,Yes,1,No
+CUST1012,Female,29,16,Yearly,2948,19657,1 yr,5,109.65,UPI,South,0,2,Yes,4,Yes,1,No
+CUST1013,Female,39,19,Yearly,2594,24235,2 yr,0,155.17,NetBanking,West,1,29,Yes,2,Yes,3,No
+CUST1014,Female,21,11,Yearly,1401,15949,3 yr,2,287.9,UPI,North,1,12,No,3,Yes,3,No
+CUST1015,Female,33,11,Yearly,517,24672,1 yr,3,260.3,UPI,East,2,16,Yes,4,No,3,No
+CUST1016,Male,25,30,Yearly,2667,6819,1 yr,1,280.41,Credit Card,South,4,2,No,2,No,1,Yes
+CUST1017,Male,40,13,Yearly,1474,10004,1 yr,0,233.87,UPI,East,2,1,No,2,Yes,3,Yes
+CUST1018,Male,35,25,Monthly,547,13221,3 yr,1,200.66,UPI,West,2,29,No,4,No,2,No
+CUST1019,Male,31,2,Yearly,1113,7939,3 yr,5,91.0,UPI,East,1,19,No,3,No,5,No
+CUST1020,Female,26,26,Monthly,1137,21086,2 yr,4,74.26,UPI,North,1,9,No,2,No,2,Yes
+CUST1021,Female,29,16,Monthly,600,6867,3 yr,4,267.14,UPI,North,2,10,No,4,Yes,1,No
+CUST1022,Female,46,5,Yearly,1759,4879,2 yr,3,252.96,UPI,East,3,13,No,4,Yes,3,Yes
+CUST1023,Female,55,11,Monthly,1154,7048,2 yr,5,52.32,UPI,South,4,22,Yes,2,No,3,No
+CUST1024,Male,49,33,Yearly,1643,11208,1 yr,3,57.86,Credit Card,North,4,19,No,1,No,4,No
+CUST1025,Male,35,10,Yearly,1978,18968,2 yr,6,261.98,NetBanking,South,3,18,Yes,1,No,1,No
+CUST1026,Female,40,27,Yearly,2046,11968,3 yr,4,101.31,UPI,East,2,8,Yes,2,Yes,3,Yes
+CUST1027,Female,58,3,Monthly,1722,1885,3 yr,4,50.4,UPI,North,4,13,Yes,2,No,3,No
+CUST1028,Female,47,28,Yearly,1956,24501,2 yr,6,183.15,NetBanking,South,0,16,Yes,2,No,4,No
+CUST1029,Female,51,12,Yearly,1852,15061,1 yr,4,246.98,NetBanking,North,0,29,Yes,3,No,4,No
+CUST1030,Female,57,11,Yearly,1868,23254,1 yr,1,168.23,Credit Card,West,4,10,No,3,Yes,4,No
+CUST1031,Male,36,12,Monthly,1758,5123,3 yr,1,58.82,Credit Card,West,2,2,No,4,No,3,No
+CUST1032,Male,40,9,Yearly,814,1704,3 yr,5,229.78,NetBanking,East,2,14,No,3,No,3,Yes
+CUST1033,Female,57,24,Monthly,704,5173,3 yr,3,294.4,NetBanking,South,4,23,No,4,Yes,2,No
+CUST1034,Male,23,18,Monthly,1056,10669,3 yr,1,203.35,UPI,North,1,13,Yes,4,No,5,No
+CUST1035,Female,56,31,Yearly,1160,13145,3 yr,3,89.32,Credit Card,North,3,14,No,1,Yes,4,Yes
+CUST1036,Male,57,33,Yearly,990,8247,3 yr,2,230.69,NetBanking,South,1,20,No,2,Yes,1,No
+CUST1037,Male,37,24,Monthly,2386,22403,1 yr,1,223.91,NetBanking,West,4,16,No,2,No,4,No
+CUST1038,Male,24,17,Monthly,1535,8917,2 yr,5,54.16,UPI,East,2,3,Yes,2,Yes,5,No
+CUST1039,Female,44,11,Yearly,758,4232,3 yr,3,271.18,Credit Card,South,3,25,No,1,No,5,No
+CUST1040,Female,20,1,Yearly,2171,24187,1 yr,0,175.05,Credit Card,North,4,6,Yes,3,No,5,No
+CUST1041,Female,57,25,Monthly,1766,18622,3 yr,3,271.89,NetBanking,West,4,3,Yes,3,No,1,No
+CUST1042,Male,50,6,Monthly,2201,19952,3 yr,6,84.5,UPI,South,3,21,No,3,No,2,No
+CUST1043,Male,30,23,Yearly,1307,21223,1 yr,3,199.07,NetBanking,South,2,22,No,3,Yes,5,No
+CUST1044,Male,38,2,Yearly,2696,13033,2 yr,2,113.8,NetBanking,North,2,14,Yes,3,No,2,No
+CUST1045,Female,39,14,Yearly,2780,7289,3 yr,2,218.56,UPI,West,0,2,Yes,1,Yes,2,No
+CUST1046,Female,32,26,Monthly,2571,2232,1 yr,5,240.33,NetBanking,East,3,4,No,3,No,5,Yes
+CUST1047,Female,41,8,Monthly,2394,19602,3 yr,3,238.81,NetBanking,North,4,1,No,1,Yes,4,No
+CUST1048,Female,32,35,Monthly,1474,10021,2 yr,3,105.9,Credit Card,East,2,10,Yes,1,Yes,5,Yes
+CUST1049,Male,19,33,Yearly,2316,1112,3 yr,2,85.74,NetBanking,North,3,19,No,1,Yes,3,Yes
+CUST1050,Male,35,35,Monthly,2828,14002,1 yr,1,160.29,UPI,East,0,12,Yes,3,No,1,No
+CUST1051,Female,36,10,Yearly,2294,7577,1 yr,0,103.37,Credit Card,South,0,12,Yes,4,No,5,No
+CUST1052,Female,21,7,Yearly,2975,24528,3 yr,5,272.12,UPI,South,2,25,No,2,No,2,No
+CUST1053,Female,44,29,Yearly,2830,19225,1 yr,2,174.43,NetBanking,East,1,20,No,3,Yes,2,Yes
+CUST1054,Female,51,27,Yearly,1683,8866,2 yr,4,111.56,Credit Card,South,2,20,Yes,4,No,5,No
+CUST1055,Male,38,13,Monthly,1717,4139,1 yr,0,218.64,NetBanking,North,4,10,No,1,Yes,3,No
+CUST1056,Female,29,25,Monthly,1913,16303,2 yr,5,164.62,Credit Card,East,0,19,No,4,No,5,No
+CUST1057,Male,59,2,Yearly,2890,2163,1 yr,2,166.44,NetBanking,East,0,1,No,1,No,5,No
+CUST1058,Female,55,5,Yearly,2407,3179,2 yr,2,164.59,Credit Card,East,3,5,No,2,No,5,No
+CUST1059,Female,29,15,Monthly,2035,23063,2 yr,3,186.03,Credit Card,West,0,22,Yes,4,Yes,4,No
+CUST1060,Male,37,8,Yearly,1627,17049,1 yr,6,191.3,Credit Card,North,4,19,No,2,Yes,5,No
+CUST1061,Female,59,23,Monthly,2949,12703,2 yr,0,223.93,Credit Card,West,1,7,No,1,Yes,3,No
+CUST1062,Female,42,29,Monthly,1330,4619,1 yr,1,140.08,UPI,East,3,10,Yes,2,No,1,No
+CUST1063,Male,31,8,Yearly,976,17232,3 yr,1,79.13,Credit Card,East,2,11,No,3,Yes,5,No
+CUST1064,Female,32,29,Monthly,2585,11653,3 yr,5,81.51,Credit Card,East,0,4,No,4,No,4,Yes
+CUST1065,Female,19,5,Yearly,2382,6192,3 yr,0,178.29,NetBanking,East,3,3,Yes,2,Yes,3,No
+CUST1066,Female,34,14,Yearly,1791,19821,2 yr,3,173.08,UPI,North,0,6,Yes,2,No,1,Yes
+CUST1067,Female,24,4,Yearly,626,7325,1 yr,4,61.8,UPI,West,3,21,Yes,1,Yes,2,No
+CUST1068,Male,52,31,Monthly,1097,20623,2 yr,3,110.4,UPI,West,4,10,No,3,Yes,5,Yes
+CUST1069,Female,55,6,Monthly,795,15255,2 yr,3,83.21,UPI,West,2,10,Yes,4,Yes,1,No
+CUST1070,Male,28,15,Monthly,1355,7814,2 yr,3,232.16,NetBanking,North,3,10,No,4,No,5,No
+CUST1071,Female,32,12,Monthly,1482,3767,1 yr,5,92.23,NetBanking,North,4,19,Yes,1,Yes,4,No
+CUST1072,Female,45,23,Monthly,971,6452,1 yr,4,296.43,UPI,East,1,29,No,2,Yes,2,Yes
+CUST1073,Female,32,17,Yearly,1552,1950,1 yr,3,256.13,UPI,East,4,14,Yes,3,No,1,Yes
+CUST1074,Male,50,8,Monthly,699,16811,1 yr,0,109.88,UPI,West,2,15,No,2,Yes,4,No
+CUST1075,Male,41,25,Monthly,1271,11161,3 yr,1,228.68,Credit Card,East,1,11,Yes,3,Yes,2,No
+CUST1076,Female,45,9,Yearly,1287,3640,2 yr,2,225.91,NetBanking,West,2,8,No,4,Yes,3,No
+CUST1077,Female,52,3,Monthly,1562,19569,1 yr,0,225.48,NetBanking,North,0,17,No,4,Yes,4,No
+CUST1078,Male,57,10,Yearly,1189,17048,2 yr,6,246.33,Credit Card,South,1,28,No,1,Yes,1,No
+CUST1079,Male,56,13,Monthly,820,5790,2 yr,2,144.18,UPI,West,4,8,Yes,2,Yes,2,No
+CUST1080,Male,39,30,Monthly,1994,9551,3 yr,4,216.12,Credit Card,South,0,26,Yes,4,No,2,No
+CUST1081,Male,26,1,Yearly,1798,19816,3 yr,3,78.52,NetBanking,West,0,6,Yes,4,No,3,No
+CUST1082,Male,36,8,Monthly,1117,23075,3 yr,3,168.41,UPI,South,2,5,No,1,No,5,No
+CUST1083,Female,22,29,Yearly,1729,16308,2 yr,2,256.02,NetBanking,North,2,26,Yes,2,Yes,2,No
+CUST1084,Female,56,25,Yearly,1017,21839,1 yr,4,149.74,Credit Card,East,3,14,No,3,No,2,Yes
+CUST1085,Female,45,32,Yearly,2246,4604,1 yr,0,271.58,Credit Card,West,4,7,No,3,Yes,3,No
+CUST1086,Female,42,7,Monthly,808,1396,1 yr,3,74.22,Credit Card,North,3,29,Yes,2,No,5,No
+CUST1087,Male,48,34,Monthly,538,14485,3 yr,0,203.95,UPI,South,2,15,No,4,Yes,2,No
+CUST1088,Female,18,28,Yearly,683,23606,1 yr,5,176.01,UPI,North,2,8,No,4,Yes,4,Yes
+CUST1089,Female,52,13,Yearly,1971,24452,3 yr,5,191.06,Credit Card,West,3,28,Yes,3,No,3,No
+CUST1090,Male,44,28,Yearly,2360,1623,2 yr,1,190.19,NetBanking,West,2,14,Yes,3,No,4,No
+CUST1091,Female,44,8,Monthly,2602,1911,2 yr,2,296.81,Credit Card,East,1,19,No,4,No,4,No
+CUST1092,Female,41,5,Yearly,2173,2469,1 yr,0,274.74,NetBanking,West,2,5,Yes,1,Yes,3,No
+CUST1093,Female,49,25,Yearly,2211,23703,2 yr,1,267.59,NetBanking,East,3,15,No,1,Yes,3,No
+CUST1094,Female,19,23,Monthly,1130,5825,3 yr,5,213.98,UPI,East,0,24,Yes,1,Yes,3,No
+CUST1095,Female,48,32,Yearly,1344,7134,2 yr,3,257.68,NetBanking,North,3,23,No,4,No,1,No
+CUST1096,Male,58,10,Yearly,873,9830,3 yr,1,253.08,UPI,West,3,5,No,2,No,5,No
+CUST1097,Female,54,18,Yearly,2816,16026,3 yr,1,94.72,Credit Card,East,4,13,Yes,3,Yes,1,No
+CUST1098,Female,47,9,Yearly,615,10727,3 yr,4,128.89,UPI,South,1,7,No,3,Yes,4,No
+CUST1099,Female,33,17,Monthly,1837,9354,3 yr,4,193.69,Credit Card,East,2,7,No,4,Yes,1,Yes
+CUST1100,Male,31,32,Yearly,2365,12477,3 yr,2,87.72,Credit Card,North,1,17,Yes,3,Yes,5,Yes
+CUST1101,Female,54,10,Yearly,507,7220,3 yr,5,212.45,NetBanking,South,3,4,No,3,Yes,3,No
+CUST1102,Female,20,28,Yearly,2677,22936,1 yr,3,106.84,Credit Card,East,0,10,Yes,2,Yes,4,No
+CUST1103,Female,55,8,Yearly,2072,2373,3 yr,6,110.52,UPI,East,2,8,Yes,2,No,5,No
+CUST1104,Male,34,14,Monthly,1051,22564,2 yr,4,222.72,Credit Card,South,4,10,Yes,2,Yes,5,No
+CUST1105,Female,54,30,Monthly,2424,8888,1 yr,5,95.76,Credit Card,North,0,18,Yes,3,Yes,5,No
+CUST1106,Female,31,18,Monthly,974,17298,3 yr,2,55.75,NetBanking,East,1,6,Yes,3,No,4,No
+CUST1107,Male,24,26,Yearly,2548,18253,3 yr,6,100.65,Credit Card,East,2,20,No,3,Yes,5,No
+CUST1108,Female,22,30,Monthly,1904,1149,1 yr,0,134.88,Credit Card,East,3,19,No,2,Yes,4,No
+CUST1109,Female,23,7,Monthly,2169,15083,3 yr,1,96.21,NetBanking,South,2,4,No,4,Yes,2,No
+CUST1110,Male,25,5,Monthly,2524,10043,3 yr,6,283.05,NetBanking,North,4,24,No,1,No,5,No
+CUST1111,Male,27,21,Yearly,2667,14572,1 yr,4,202.41,Credit Card,South,3,9,Yes,3,Yes,5,Yes
+CUST1112,Male,42,9,Yearly,1877,17374,3 yr,6,279.25,NetBanking,East,2,13,No,3,No,3,No
+CUST1113,Male,39,19,Yearly,2810,7249,2 yr,1,161.83,NetBanking,West,4,4,Yes,2,Yes,5,No
+CUST1114,Male,33,10,Yearly,724,22021,3 yr,5,260.24,UPI,South,2,26,No,4,Yes,4,Yes
+CUST1115,Female,31,23,Monthly,2194,9038,1 yr,2,107.48,UPI,West,2,25,No,1,Yes,1,No
+CUST1116,Male,26,22,Yearly,853,22757,2 yr,3,147.87,Credit Card,East,3,19,Yes,1,No,1,Yes
+CUST1117,Female,47,21,Yearly,1695,2989,2 yr,3,124.06,Credit Card,East,0,14,Yes,1,Yes,1,Yes
+CUST1118,Male,46,13,Yearly,1031,16967,3 yr,3,122.56,Credit Card,North,3,7,Yes,2,No,4,No
+CUST1119,Male,31,22,Yearly,2659,20190,3 yr,3,299.76,UPI,North,3,23,Yes,1,No,5,Yes
+CUST1120,Male,38,16,Monthly,1200,19833,2 yr,1,100.3,UPI,West,4,20,No,4,Yes,3,No
+CUST1121,Male,54,19,Monthly,2049,2094,2 yr,0,76.01,NetBanking,South,2,9,No,1,No,2,Yes
+CUST1122,Male,47,29,Yearly,859,24660,2 yr,3,130.14,UPI,North,3,21,Yes,4,No,1,Yes
+CUST1123,Male,48,30,Monthly,2931,13477,2 yr,2,224.13,Credit Card,East,1,23,No,1,Yes,4,No
+CUST1124,Male,25,2,Yearly,1929,10382,3 yr,2,76.08,NetBanking,West,4,12,Yes,2,No,1,No
+CUST1125,Male,51,3,Yearly,2965,12731,1 yr,5,288.24,UPI,North,3,10,Yes,3,Yes,5,No
+CUST1126,Male,50,28,Yearly,1183,4333,1 yr,5,206.21,NetBanking,West,1,22,No,3,Yes,4,No
+CUST1127,Male,51,19,Monthly,998,12660,3 yr,0,114.79,NetBanking,North,1,23,No,3,Yes,1,No
+CUST1128,Female,37,19,Monthly,785,22629,2 yr,3,121.98,UPI,West,0,9,No,1,Yes,3,No
+CUST1129,Male,55,34,Monthly,1968,13225,2 yr,0,204.64,NetBanking,East,1,14,Yes,2,No,3,Yes
+CUST1130,Male,42,24,Yearly,2658,15858,3 yr,3,177.92,NetBanking,West,4,9,Yes,4,No,5,No
+CUST1131,Male,20,13,Yearly,2786,8626,2 yr,6,152.69,Credit Card,North,0,15,Yes,2,Yes,3,No
+CUST1132,Female,28,24,Monthly,532,8573,1 yr,6,167.09,Credit Card,West,0,17,No,3,Yes,3,No
+CUST1133,Male,48,28,Monthly,2499,16999,2 yr,2,57.07,UPI,South,1,13,Yes,2,No,1,No
+CUST1134,Male,38,5,Monthly,1827,13705,3 yr,4,77.47,Credit Card,South,3,10,No,4,Yes,1,No
+CUST1135,Male,36,27,Yearly,2664,20376,1 yr,2,104.08,Credit Card,East,1,22,No,4,Yes,2,No
+CUST1136,Female,41,30,Monthly,1186,10340,2 yr,4,51.87,Credit Card,West,3,16,Yes,4,No,4,Yes
+CUST1137,Male,23,25,Yearly,2489,7554,1 yr,6,188.64,NetBanking,East,1,22,No,4,Yes,2,No
+CUST1138,Male,40,22,Monthly,2029,10132,2 yr,1,219.05,NetBanking,South,2,19,No,1,No,5,No
+CUST1139,Female,28,9,Yearly,2832,17649,2 yr,4,264.31,NetBanking,South,2,14,Yes,4,Yes,1,Yes
+CUST1140,Female,30,34,Monthly,1027,9865,3 yr,2,188.79,NetBanking,South,2,6,Yes,4,Yes,1,No
+CUST1141,Female,24,10,Monthly,2757,23201,1 yr,6,226.98,UPI,East,3,8,No,2,Yes,2,Yes
+CUST1142,Male,18,18,Monthly,1004,6047,2 yr,3,240.97,Credit Card,West,3,12,Yes,4,No,5,No
+CUST1143,Female,46,30,Yearly,1875,6283,2 yr,0,215.9,Credit Card,South,2,1,Yes,3,Yes,5,No
+CUST1144,Male,35,22,Monthly,1488,12211,1 yr,2,295.09,NetBanking,North,4,11,Yes,1,No,4,No
+CUST1145,Female,32,34,Yearly,1348,12778,2 yr,5,251.84,Credit Card,North,2,15,No,2,Yes,3,No
+CUST1146,Male,55,25,Yearly,2643,7066,2 yr,3,54.08,NetBanking,East,0,15,No,1,No,4,No
+CUST1147,Female,43,22,Monthly,749,22260,2 yr,3,52.7,NetBanking,East,3,8,No,1,Yes,4,No
+CUST1148,Male,55,22,Monthly,1975,11552,2 yr,1,187.0,UPI,South,2,23,No,4,Yes,4,Yes
+CUST1149,Male,30,9,Yearly,1508,4404,3 yr,1,112.68,Credit Card,South,4,19,No,4,Yes,2,No
+CUST1150,Male,44,28,Yearly,743,18564,1 yr,3,108.07,Credit Card,North,3,12,No,4,Yes,2,No
+CUST1151,Female,41,11,Monthly,781,7599,2 yr,3,103.4,UPI,West,0,5,Yes,4,No,1,Yes
+CUST1152,Male,42,2,Monthly,2276,1089,1 yr,2,76.95,UPI,East,2,24,Yes,2,No,3,No
+CUST1153,Male,35,32,Yearly,1684,19478,1 yr,5,174.67,Credit Card,East,1,5,Yes,3,No,1,No
+CUST1154,Male,23,14,Yearly,2154,20868,1 yr,3,193.38,UPI,West,0,3,No,1,Yes,1,No
+CUST1155,Male,58,25,Yearly,651,4823,3 yr,5,257.39,Credit Card,East,3,2,No,2,Yes,2,No
+CUST1156,Female,50,28,Yearly,1103,22998,3 yr,3,236.5,NetBanking,West,3,2,Yes,4,Yes,1,No
+CUST1157,Female,21,28,Yearly,2392,10790,2 yr,1,197.32,UPI,North,4,16,Yes,2,Yes,5,No
+CUST1158,Female,18,25,Yearly,2022,20446,2 yr,5,228.75,UPI,North,0,27,Yes,2,Yes,4,No
+CUST1159,Female,36,28,Yearly,1418,2079,2 yr,4,280.75,UPI,South,1,6,Yes,3,Yes,2,No
+CUST1160,Male,40,20,Yearly,1379,6828,2 yr,4,280.0,NetBanking,North,0,26,No,4,No,4,Yes
+CUST1161,Male,32,27,Yearly,787,11531,2 yr,2,277.09,UPI,West,1,15,No,3,Yes,4,No
+CUST1162,Female,19,32,Monthly,2784,16888,1 yr,4,161.6,Credit Card,South,2,13,No,2,Yes,5,Yes
+CUST1163,Female,39,23,Yearly,2438,5251,3 yr,3,118.64,UPI,East,4,3,Yes,1,No,2,No
+CUST1164,Female,27,34,Yearly,1990,18602,2 yr,3,144.05,Credit Card,South,3,28,Yes,2,Yes,5,No
+CUST1165,Male,20,23,Monthly,1383,6196,3 yr,2,110.01,UPI,East,0,2,Yes,2,No,4,Yes
+CUST1166,Female,35,1,Yearly,1235,3125,1 yr,2,114.64,UPI,North,2,5,No,1,No,5,No
+CUST1167,Male,45,25,Monthly,2708,21188,2 yr,4,246.42,NetBanking,East,4,25,Yes,1,Yes,1,Yes
+CUST1168,Female,56,17,Monthly,1522,9351,3 yr,4,178.48,NetBanking,South,3,18,Yes,2,Yes,3,No
+CUST1169,Female,40,12,Yearly,1040,19286,3 yr,5,292.69,UPI,North,2,20,Yes,2,Yes,4,No
+CUST1170,Female,49,3,Yearly,1160,14617,3 yr,4,90.55,NetBanking,South,0,26,Yes,1,Yes,1,No
+CUST1171,Male,45,15,Monthly,1180,18302,1 yr,1,81.72,UPI,North,2,20,Yes,1,Yes,2,No
+CUST1172,Female,44,33,Yearly,954,22718,3 yr,2,254.87,NetBanking,West,4,12,No,4,Yes,2,No
+CUST1173,Female,54,15,Yearly,1994,19865,1 yr,3,124.77,NetBanking,South,0,16,Yes,4,Yes,2,No
+CUST1174,Male,55,25,Yearly,1732,15391,2 yr,5,169.2,Credit Card,West,1,14,Yes,2,No,4,No
+CUST1175,Female,35,26,Yearly,1590,11690,3 yr,5,176.45,Credit Card,East,4,1,No,1,No,2,Yes
+CUST1176,Female,22,19,Monthly,2246,17690,1 yr,0,228.95,UPI,South,4,4,Yes,2,Yes,3,No
+CUST1177,Female,54,19,Monthly,2941,19373,1 yr,3,163.92,Credit Card,North,2,22,Yes,1,Yes,2,No
+CUST1178,Female,19,30,Yearly,1455,22093,1 yr,1,203.05,UPI,East,1,9,No,3,No,1,No
+CUST1179,Male,58,11,Monthly,721,12730,3 yr,3,153.85,UPI,South,3,14,Yes,2,Yes,3,No
+CUST1180,Female,29,18,Monthly,678,1495,3 yr,3,254.0,Credit Card,West,4,16,No,3,Yes,2,No
+CUST1181,Male,44,22,Yearly,1329,17360,2 yr,1,143.18,Credit Card,East,0,23,Yes,4,Yes,1,No
+CUST1182,Male,28,22,Monthly,1523,14686,3 yr,4,221.02,UPI,East,1,27,No,2,Yes,4,Yes
+CUST1183,Female,22,24,Yearly,1769,12468,3 yr,5,206.96,UPI,West,4,15,No,3,Yes,3,No
+CUST1184,Female,52,12,Yearly,674,11527,2 yr,5,275.73,NetBanking,West,2,25,Yes,1,Yes,2,Yes
+CUST1185,Female,24,2,Monthly,2439,18792,3 yr,3,69.71,NetBanking,North,0,1,No,1,No,1,Yes
+CUST1186,Male,20,19,Monthly,1982,6636,3 yr,2,269.8,Credit Card,South,3,6,Yes,1,No,5,No
+CUST1187,Female,45,16,Yearly,1099,12473,3 yr,0,80.76,Credit Card,South,0,12,Yes,2,Yes,2,Yes
+CUST1188,Female,37,21,Yearly,2577,14839,3 yr,0,298.86,Credit Card,North,3,17,Yes,3,No,3,Yes
+CUST1189,Male,45,26,Yearly,772,14258,1 yr,1,226.9,UPI,South,3,15,Yes,4,Yes,1,No
+CUST1190,Male,22,12,Yearly,1612,10384,2 yr,0,211.05,UPI,North,3,18,Yes,2,Yes,1,No
+CUST1191,Male,36,21,Yearly,1919,8023,2 yr,2,200.8,NetBanking,South,3,26,Yes,3,Yes,2,No
+CUST1192,Male,47,24,Yearly,2061,22021,1 yr,6,105.27,Credit Card,North,0,20,Yes,3,Yes,4,Yes
+CUST1193,Male,52,12,Yearly,2845,20707,3 yr,0,178.16,NetBanking,North,3,10,No,4,No,4,No
+CUST1194,Male,23,13,Yearly,2661,19528,3 yr,6,199.05,Credit Card,West,2,22,Yes,4,Yes,2,No
+CUST1195,Female,48,23,Yearly,1506,21257,3 yr,1,230.32,NetBanking,West,0,18,No,1,No,3,Yes
+CUST1196,Male,54,21,Yearly,2779,7242,2 yr,2,192.61,Credit Card,West,2,22,No,3,Yes,2,No
+CUST1197,Male,50,29,Monthly,1456,24156,2 yr,3,112.77,UPI,East,4,20,Yes,2,No,5,No
+CUST1198,Female,50,19,Yearly,1979,1970,1 yr,6,183.81,Credit Card,West,2,18,No,3,No,2,Yes
+CUST1199,Female,51,24,Yearly,1638,13241,1 yr,2,176.46,Credit Card,North,0,15,No,3,No,2,No
+CUST1200,Male,44,34,Monthly,1710,14010,3 yr,6,271.48,NetBanking,North,2,1,No,4,No,3,No
+CUST1201,Female,27,33,Yearly,973,15851,2 yr,5,101.73,Credit Card,East,4,2,Yes,1,No,3,No
+CUST1202,Male,49,15,Yearly,1518,9911,1 yr,6,270.97,Credit Card,West,1,1,No,2,No,2,No
+CUST1203,Female,53,28,Monthly,1135,1934,2 yr,6,181.73,Credit Card,South,2,4,No,2,Yes,1,No
+CUST1204,Female,45,5,Yearly,1467,5852,2 yr,1,256.45,NetBanking,South,3,27,No,3,Yes,2,No
+CUST1205,Male,51,21,Monthly,2612,15344,3 yr,1,248.48,Credit Card,West,0,6,No,4,No,5,Yes
+CUST1206,Male,55,32,Monthly,1014,17639,1 yr,0,268.61,UPI,North,3,1,Yes,1,Yes,2,No
+CUST1207,Female,28,25,Yearly,1013,17830,1 yr,2,288.14,Credit Card,South,4,14,Yes,4,No,5,No
+CUST1208,Female,39,2,Yearly,2881,8862,1 yr,3,265.09,UPI,South,2,14,No,2,Yes,5,No
+CUST1209,Female,43,25,Monthly,1909,14781,3 yr,6,288.29,Credit Card,North,2,26,No,3,No,4,Yes
+CUST1210,Male,50,16,Monthly,2231,6141,3 yr,4,224.86,UPI,East,3,23,Yes,1,Yes,5,No
+CUST1211,Female,31,8,Yearly,2060,10904,3 yr,0,241.01,UPI,South,3,27,No,1,No,2,Yes
+CUST1212,Female,28,1,Yearly,556,7210,2 yr,3,252.39,NetBanking,South,2,3,No,1,No,4,No
+CUST1213,Male,25,6,Yearly,1696,2903,2 yr,1,242.52,NetBanking,West,1,16,Yes,4,No,2,No
+CUST1214,Female,22,5,Monthly,2492,8096,3 yr,6,257.49,NetBanking,West,3,14,No,1,No,5,No
+CUST1215,Female,49,14,Monthly,1259,8450,2 yr,6,292.54,UPI,East,2,25,No,4,Yes,3,No
+CUST1216,Female,29,13,Yearly,1164,17912,2 yr,0,86.55,NetBanking,West,3,21,No,3,Yes,5,No
+CUST1217,Male,18,33,Yearly,1434,19032,1 yr,2,235.32,Credit Card,North,1,12,Yes,2,Yes,3,No
+CUST1218,Female,32,34,Yearly,1274,8921,2 yr,1,240.12,Credit Card,East,1,28,Yes,4,Yes,5,Yes
+CUST1219,Male,18,31,Monthly,1881,12392,3 yr,3,260.37,UPI,East,4,10,Yes,1,Yes,2,No
+CUST1220,Female,51,4,Yearly,694,17851,1 yr,0,237.36,Credit Card,South,1,1,No,4,Yes,5,Yes
+CUST1221,Male,25,4,Yearly,1838,22285,3 yr,1,65.88,UPI,East,1,25,No,2,Yes,4,No
+CUST1222,Male,22,8,Yearly,1534,11836,1 yr,4,264.5,NetBanking,South,2,19,No,1,No,5,No
+CUST1223,Female,31,21,Monthly,2798,1178,1 yr,6,118.78,Credit Card,North,1,25,Yes,4,Yes,2,Yes
+CUST1224,Male,54,1,Monthly,1318,7844,3 yr,2,255.92,Credit Card,South,2,27,Yes,4,Yes,4,No
+CUST1225,Female,26,19,Monthly,1485,14219,3 yr,0,127.87,UPI,West,1,7,Yes,2,Yes,3,Yes
+CUST1226,Female,19,21,Yearly,814,15915,3 yr,2,126.38,NetBanking,West,4,29,Yes,1,No,2,No
+CUST1227,Female,45,33,Yearly,2846,13081,3 yr,0,271.88,UPI,East,0,13,Yes,4,Yes,1,No
+CUST1228,Female,54,1,Yearly,546,17731,3 yr,2,277.48,NetBanking,East,1,8,No,4,Yes,5,No
+CUST1229,Male,47,7,Monthly,1766,2741,3 yr,5,248.62,Credit Card,South,2,2,No,2,No,2,Yes
+CUST1230,Female,28,21,Yearly,2373,16516,1 yr,1,153.03,UPI,North,4,26,No,1,Yes,3,Yes
+CUST1231,Male,38,9,Yearly,1107,6794,2 yr,3,52.98,UPI,West,1,20,Yes,4,Yes,3,No
+CUST1232,Male,32,23,Monthly,850,21103,2 yr,5,248.54,UPI,South,2,25,No,1,No,1,No
+CUST1233,Male,50,27,Yearly,1887,17718,3 yr,4,90.51,UPI,South,2,23,Yes,2,Yes,3,Yes
+CUST1234,Female,30,2,Monthly,2822,1083,3 yr,2,64.03,Credit Card,West,4,21,No,1,Yes,3,Yes
+CUST1235,Male,22,8,Monthly,1637,19721,2 yr,2,256.65,NetBanking,East,2,7,Yes,3,No,3,Yes
+CUST1236,Female,47,14,Monthly,1153,20998,1 yr,5,287.82,NetBanking,North,4,20,No,3,No,4,No
+CUST1237,Male,50,26,Yearly,1619,14205,3 yr,3,292.36,Credit Card,South,3,16,Yes,2,No,5,No
+CUST1238,Female,59,28,Yearly,1978,24298,3 yr,2,189.5,NetBanking,West,2,23,Yes,4,No,2,No
+CUST1239,Male,24,31,Yearly,2048,21156,1 yr,3,158.98,Credit Card,South,4,6,Yes,4,No,4,No
+CUST1240,Female,26,31,Monthly,1092,2632,2 yr,0,287.08,Credit Card,West,2,11,No,2,Yes,2,No
+CUST1241,Female,55,15,Monthly,1995,9177,2 yr,1,141.62,Credit Card,East,4,27,Yes,4,Yes,3,No
+CUST1242,Female,40,11,Yearly,1446,12799,2 yr,0,205.86,Credit Card,East,2,15,Yes,1,No,1,No
+CUST1243,Male,59,26,Monthly,1436,2400,2 yr,0,130.65,Credit Card,East,2,8,Yes,2,Yes,5,Yes
+CUST1244,Male,24,2,Monthly,2340,1068,1 yr,2,148.05,NetBanking,East,0,26,Yes,3,Yes,5,No
+CUST1245,Female,20,31,Monthly,2979,14416,1 yr,3,242.54,UPI,North,2,21,No,4,Yes,3,No
+CUST1246,Male,57,19,Monthly,1745,18530,3 yr,3,166.35,NetBanking,West,2,8,Yes,1,No,2,Yes
+CUST1247,Male,21,10,Yearly,1359,20083,3 yr,4,168.96,UPI,South,0,25,Yes,1,Yes,3,No
+CUST1248,Female,47,2,Monthly,1646,6701,3 yr,0,290.81,Credit Card,South,0,13,Yes,3,Yes,4,No
+CUST1249,Female,31,25,Monthly,2766,19047,1 yr,0,99.1,UPI,South,1,9,No,1,Yes,4,No
+CUST1250,Male,38,33,Monthly,2092,20422,2 yr,2,233.46,UPI,West,2,10,No,2,No,3,No
+CUST1251,Female,18,9,Monthly,1831,20333,2 yr,6,192.82,NetBanking,North,0,20,Yes,3,No,1,Yes
+CUST1252,Male,19,1,Monthly,2762,12474,3 yr,2,229.24,NetBanking,West,4,8,No,2,Yes,4,No
+CUST1253,Male,24,27,Monthly,1451,7934,2 yr,3,282.58,NetBanking,South,3,22,Yes,1,Yes,5,No
+CUST1254,Male,48,17,Yearly,1106,22235,3 yr,6,171.76,NetBanking,North,2,7,No,4,No,4,No
+CUST1255,Female,34,10,Yearly,955,23460,3 yr,5,274.92,Credit Card,West,1,26,Yes,1,No,5,No
+CUST1256,Male,33,34,Monthly,1071,22165,3 yr,4,86.83,NetBanking,East,1,20,Yes,2,No,4,No
+CUST1257,Female,55,35,Yearly,2100,7016,2 yr,4,262.41,UPI,South,3,20,Yes,3,Yes,2,No
+CUST1258,Male,32,35,Yearly,2598,5571,3 yr,6,65.74,UPI,East,2,22,Yes,1,Yes,5,No
+CUST1259,Male,47,29,Yearly,1178,2601,3 yr,3,242.24,UPI,East,4,19,No,1,No,2,No
+CUST1260,Male,35,5,Monthly,1928,14731,1 yr,1,84.21,NetBanking,North,2,4,Yes,4,Yes,2,No
+CUST1261,Male,18,28,Yearly,849,16467,1 yr,3,211.52,UPI,East,0,2,No,1,No,1,No
+CUST1262,Male,27,19,Monthly,1660,7100,3 yr,5,138.91,UPI,East,2,21,No,3,Yes,4,No
+CUST1263,Male,52,14,Yearly,507,13566,2 yr,4,95.1,Credit Card,North,1,19,Yes,4,No,4,No
+CUST1264,Male,33,9,Yearly,1478,5395,2 yr,3,67.31,UPI,West,1,14,Yes,2,Yes,5,Yes
+CUST1265,Male,50,14,Yearly,2482,13900,1 yr,4,275.4,Credit Card,East,3,26,Yes,2,Yes,2,No
+CUST1266,Male,54,29,Monthly,2051,7578,2 yr,6,121.53,UPI,West,2,3,No,1,Yes,4,No
+CUST1267,Female,52,35,Yearly,2059,10235,1 yr,2,65.47,UPI,South,2,9,Yes,1,Yes,4,No
+CUST1268,Female,46,24,Yearly,1980,14402,1 yr,1,205.85,Credit Card,East,1,28,Yes,4,Yes,2,Yes
+CUST1269,Male,58,7,Yearly,1935,9758,1 yr,5,276.35,UPI,East,0,18,No,3,No,3,No
+CUST1270,Female,43,10,Yearly,2146,16337,2 yr,5,78.34,NetBanking,South,2,6,No,3,No,3,No
+CUST1271,Female,19,13,Yearly,902,8478,3 yr,3,257.86,NetBanking,West,4,28,No,4,No,2,No
+CUST1272,Female,37,2,Yearly,1084,6058,1 yr,0,68.84,Credit Card,West,4,1,Yes,4,No,5,Yes
+CUST1273,Male,44,16,Yearly,1715,4867,1 yr,5,269.84,UPI,East,2,16,Yes,2,Yes,5,No
+CUST1274,Male,35,31,Yearly,2743,7788,2 yr,2,112.36,NetBanking,South,1,8,Yes,2,Yes,1,No
+CUST1275,Female,30,26,Monthly,1646,12888,1 yr,0,259.18,UPI,West,3,10,No,1,No,5,No
+CUST1276,Male,40,18,Yearly,2761,21260,1 yr,5,228.75,Credit Card,East,3,3,No,2,Yes,2,Yes
+CUST1277,Male,37,30,Yearly,2451,17504,3 yr,4,159.21,UPI,West,4,11,Yes,3,No,5,No
+CUST1278,Male,30,24,Yearly,2732,6565,1 yr,6,102.97,UPI,East,2,14,Yes,1,Yes,5,No
+CUST1279,Male,22,11,Monthly,565,10144,2 yr,6,67.58,Credit Card,West,2,19,No,3,Yes,5,Yes
+CUST1280,Female,42,25,Monthly,2238,22193,1 yr,4,252.11,UPI,West,1,19,No,1,No,1,Yes
+CUST1281,Male,39,33,Monthly,2198,7298,1 yr,5,257.64,Credit Card,East,4,29,No,3,Yes,3,No
+CUST1282,Female,46,4,Monthly,996,7546,2 yr,6,82.86,NetBanking,West,4,10,Yes,4,No,1,No
+CUST1283,Female,55,6,Yearly,1150,11307,1 yr,3,176.37,UPI,East,1,15,Yes,1,Yes,5,Yes
+CUST1284,Female,58,14,Yearly,1473,19994,2 yr,0,120.19,UPI,North,2,26,No,1,No,5,Yes
+CUST1285,Female,54,8,Monthly,1124,21721,2 yr,4,223.46,UPI,East,4,20,Yes,4,Yes,4,No
+CUST1286,Male,23,35,Yearly,1261,9182,3 yr,2,296.71,UPI,West,0,11,No,4,Yes,3,No
+CUST1287,Male,53,18,Monthly,1051,16685,3 yr,3,210.52,Credit Card,South,0,29,Yes,3,Yes,3,No
+CUST1288,Male,25,25,Monthly,1153,10202,1 yr,1,242.74,NetBanking,West,0,3,No,3,Yes,5,No
+CUST1289,Male,27,17,Yearly,1143,18403,1 yr,1,145.96,NetBanking,East,1,26,Yes,3,Yes,5,No
+CUST1290,Female,44,1,Monthly,2444,3928,2 yr,2,70.52,NetBanking,West,4,19,Yes,4,Yes,1,No
+CUST1291,Male,27,24,Monthly,603,9101,2 yr,6,268.31,Credit Card,South,1,4,Yes,4,No,4,No
+CUST1292,Male,48,20,Monthly,2375,12137,3 yr,3,229.82,UPI,West,4,3,Yes,4,Yes,3,No
+CUST1293,Male,55,18,Monthly,963,17997,2 yr,2,286.1,Credit Card,West,2,24,Yes,4,No,3,No
+CUST1294,Male,36,4,Yearly,646,24100,2 yr,2,296.94,Credit Card,West,3,28,No,4,Yes,4,No
+CUST1295,Male,44,3,Monthly,1464,2515,2 yr,3,229.81,Credit Card,East,0,13,Yes,1,No,5,Yes
+CUST1296,Female,40,16,Monthly,620,3439,3 yr,6,161.97,NetBanking,North,3,8,No,4,Yes,1,No
+CUST1297,Male,39,9,Monthly,663,24114,3 yr,2,110.83,UPI,South,0,27,Yes,3,Yes,5,Yes
+CUST1298,Male,24,35,Monthly,1411,15466,2 yr,3,229.85,NetBanking,South,0,15,No,1,Yes,4,No
+CUST1299,Male,27,20,Yearly,967,17120,2 yr,2,230.54,UPI,South,4,6,Yes,3,Yes,2,Yes
+CUST1300,Female,55,10,Yearly,648,6575,2 yr,5,72.53,NetBanking,West,2,3,No,4,No,1,No
+CUST1301,Male,58,7,Yearly,1091,6021,3 yr,4,289.81,UPI,North,2,7,No,2,No,1,Yes
+CUST1302,Male,37,24,Monthly,550,14884,2 yr,4,229.8,UPI,West,2,20,Yes,4,Yes,5,No
+CUST1303,Female,47,30,Yearly,1046,1280,2 yr,3,134.04,UPI,East,2,27,No,2,No,4,No
+CUST1304,Female,59,28,Yearly,859,6104,1 yr,2,112.99,UPI,North,2,8,No,1,No,3,Yes
+CUST1305,Male,21,7,Monthly,544,8136,3 yr,4,287.22,Credit Card,East,2,2,No,2,Yes,2,No
+CUST1306,Female,29,15,Monthly,1681,21546,2 yr,5,74.46,NetBanking,West,4,3,Yes,4,Yes,5,No
+CUST1307,Male,36,8,Monthly,2128,18445,2 yr,5,275.15,UPI,North,4,3,No,3,Yes,3,No
+CUST1308,Male,27,34,Monthly,1326,1000,3 yr,5,169.91,UPI,South,0,26,No,1,No,5,No
+CUST1309,Male,19,24,Yearly,1749,23242,3 yr,2,297.66,Credit Card,East,4,5,No,3,No,2,No
+CUST1310,Male,42,19,Yearly,2690,24675,3 yr,3,125.51,NetBanking,East,0,29,No,3,Yes,3,Yes
+CUST1311,Female,57,6,Yearly,2063,16839,3 yr,0,197.33,Credit Card,East,1,7,No,1,No,2,No
+CUST1312,Female,41,22,Yearly,1350,10565,1 yr,4,208.98,UPI,West,2,29,Yes,1,No,4,No
+CUST1313,Male,40,18,Monthly,1904,8594,1 yr,2,238.53,NetBanking,South,1,18,Yes,4,No,3,No
+CUST1314,Male,38,5,Yearly,2650,4772,3 yr,3,132.43,UPI,West,3,26,No,1,No,3,No
+CUST1315,Female,24,23,Yearly,1156,5620,2 yr,0,125.57,Credit Card,South,1,16,Yes,2,Yes,3,No
+CUST1316,Male,59,5,Monthly,2556,12122,1 yr,1,258.29,Credit Card,West,0,13,Yes,2,Yes,3,No
+CUST1317,Male,18,20,Yearly,2010,16040,3 yr,1,264.27,UPI,East,1,12,No,2,Yes,3,No
+CUST1318,Male,29,11,Yearly,1603,13093,2 yr,2,224.68,NetBanking,East,3,12,No,1,No,3,No
+CUST1319,Female,50,29,Yearly,2921,14594,2 yr,5,191.77,UPI,South,2,7,Yes,1,No,2,No
+CUST1320,Male,53,2,Yearly,1743,23092,2 yr,4,205.84,UPI,South,0,5,No,3,No,2,No
+CUST1321,Male,41,10,Monthly,2023,16857,2 yr,0,120.84,UPI,East,1,17,Yes,4,No,4,Yes
+CUST1322,Male,56,32,Monthly,2910,8234,1 yr,6,176.72,UPI,South,3,20,Yes,3,No,3,No
+CUST1323,Female,43,14,Yearly,625,6093,1 yr,3,233.62,NetBanking,South,2,1,No,2,Yes,4,No
+CUST1324,Male,49,2,Yearly,1096,7574,3 yr,1,188.03,Credit Card,East,4,6,No,2,No,3,Yes
+CUST1325,Male,43,16,Yearly,772,8154,2 yr,4,287.77,Credit Card,East,2,8,Yes,1,Yes,4,No
+CUST1326,Female,41,28,Yearly,1176,17928,3 yr,3,120.34,Credit Card,South,3,10,No,4,No,1,No
+CUST1327,Female,48,2,Monthly,2783,5745,2 yr,6,75.02,UPI,North,0,10,Yes,2,Yes,2,No
+CUST1328,Female,57,30,Monthly,1825,5260,3 yr,2,253.41,NetBanking,East,1,4,No,3,Yes,1,No
+CUST1329,Female,26,14,Monthly,2675,22599,1 yr,1,50.57,Credit Card,South,0,29,Yes,3,Yes,4,No
+CUST1330,Female,37,14,Monthly,2779,17274,2 yr,4,99.97,UPI,South,1,10,Yes,1,No,5,No
+CUST1331,Female,40,13,Monthly,1231,8848,2 yr,2,275.26,NetBanking,South,0,7,No,3,Yes,1,No
+CUST1332,Female,35,5,Monthly,2216,1617,2 yr,6,92.04,UPI,South,0,8,No,4,No,5,No
+CUST1333,Female,49,1,Yearly,1378,2706,1 yr,0,129.95,Credit Card,West,4,24,No,1,No,1,No
+CUST1334,Female,30,19,Monthly,2881,5529,2 yr,6,254.78,UPI,West,3,14,Yes,4,No,3,No
+CUST1335,Female,48,35,Monthly,2149,18337,3 yr,5,180.19,UPI,East,4,28,Yes,4,Yes,5,No
+CUST1336,Male,22,35,Monthly,1457,22047,3 yr,2,204.77,NetBanking,East,2,8,No,3,Yes,5,Yes
+CUST1337,Female,20,3,Yearly,2404,3909,1 yr,4,239.15,NetBanking,West,1,1,Yes,1,No,1,No
+CUST1338,Female,32,18,Monthly,2728,1510,2 yr,0,84.8,NetBanking,West,1,9,Yes,3,Yes,2,No
+CUST1339,Female,31,23,Yearly,1296,14152,3 yr,5,245.87,Credit Card,East,4,22,No,3,Yes,1,No
+CUST1340,Female,23,29,Yearly,1672,10291,3 yr,5,142.05,NetBanking,West,0,7,No,4,No,5,No
+CUST1341,Female,59,12,Yearly,621,20956,3 yr,3,56.17,UPI,North,0,12,No,2,Yes,4,No
+CUST1342,Female,26,12,Monthly,1717,1533,1 yr,5,147.47,UPI,North,3,20,Yes,4,No,4,No
+CUST1343,Female,29,22,Yearly,864,2692,1 yr,2,125.0,NetBanking,South,4,2,Yes,1,Yes,5,Yes
+CUST1344,Male,26,17,Yearly,1812,14407,2 yr,5,170.92,Credit Card,North,1,2,No,4,Yes,2,No
+CUST1345,Male,40,3,Monthly,1314,5594,3 yr,5,88.05,NetBanking,North,0,6,No,2,Yes,2,No
+CUST1346,Male,59,15,Monthly,600,6922,1 yr,6,56.23,NetBanking,East,1,24,No,2,Yes,1,No
+CUST1347,Male,58,35,Yearly,1068,5726,2 yr,5,132.86,UPI,West,1,27,No,1,No,1,No
+CUST1348,Female,47,14,Monthly,2329,24406,3 yr,5,206.36,UPI,East,1,21,No,4,No,4,No
+CUST1349,Male,21,13,Monthly,2943,8699,3 yr,6,257.78,UPI,North,4,20,Yes,4,Yes,1,No
+CUST1350,Male,33,25,Yearly,1978,12704,3 yr,1,268.9,NetBanking,South,0,3,Yes,3,No,4,No
+CUST1351,Female,30,16,Yearly,2800,13147,2 yr,5,121.53,NetBanking,East,0,1,No,1,No,1,Yes
+CUST1352,Male,21,19,Monthly,2183,19867,1 yr,6,249.85,Credit Card,East,2,19,Yes,4,No,5,Yes
+CUST1353,Male,54,21,Monthly,2810,10423,3 yr,3,136.91,Credit Card,North,4,18,Yes,2,No,3,Yes
+CUST1354,Male,55,33,Monthly,2017,18274,1 yr,6,235.46,UPI,South,4,11,Yes,3,No,5,No
+CUST1355,Female,36,20,Monthly,2993,16908,1 yr,0,261.65,UPI,South,3,4,Yes,2,No,2,Yes
+CUST1356,Male,36,24,Monthly,1532,20402,3 yr,5,296.63,UPI,South,1,9,Yes,3,No,4,No
+CUST1357,Male,48,35,Yearly,2806,20728,3 yr,3,166.39,Credit Card,North,4,6,No,2,No,1,Yes
+CUST1358,Male,36,13,Monthly,1447,19275,3 yr,4,92.32,UPI,West,0,14,No,4,Yes,3,Yes
+CUST1359,Female,27,26,Monthly,2786,15786,3 yr,2,218.61,UPI,West,2,26,Yes,1,Yes,3,No
+CUST1360,Male,59,30,Yearly,2404,4795,3 yr,6,59.65,Credit Card,North,2,12,Yes,1,No,2,No
+CUST1361,Male,30,25,Yearly,1734,1302,1 yr,0,110.26,UPI,South,3,14,Yes,4,No,3,Yes
+CUST1362,Male,49,17,Yearly,1146,18709,3 yr,6,199.02,UPI,East,1,8,Yes,2,No,3,No
+CUST1363,Female,20,12,Yearly,2772,13875,1 yr,1,223.36,UPI,South,4,10,No,2,Yes,5,Yes
+CUST1364,Female,31,23,Monthly,1431,1770,1 yr,3,273.23,NetBanking,North,1,16,No,4,No,4,No
+CUST1365,Female,21,15,Yearly,2511,18037,1 yr,3,299.0,UPI,East,4,21,No,3,Yes,5,No
+CUST1366,Female,54,13,Yearly,2392,9340,3 yr,6,281.97,UPI,South,0,17,No,1,No,1,No
+CUST1367,Female,32,4,Monthly,2416,18670,2 yr,2,162.59,Credit Card,North,3,25,Yes,2,No,1,No
+CUST1368,Female,53,24,Yearly,2031,4073,1 yr,5,86.17,UPI,South,3,23,Yes,4,Yes,4,No
+CUST1369,Male,26,29,Yearly,1581,5247,3 yr,0,110.37,UPI,North,3,24,No,1,No,4,No
+CUST1370,Female,42,31,Yearly,2192,23835,1 yr,0,144.78,NetBanking,West,2,20,Yes,2,No,3,No
+CUST1371,Male,51,12,Monthly,1468,18743,1 yr,6,113.94,NetBanking,South,4,3,No,3,Yes,4,Yes
+CUST1372,Female,41,25,Monthly,1722,12326,1 yr,2,150.8,Credit Card,North,4,11,Yes,2,Yes,2,Yes
+CUST1373,Male,50,8,Monthly,2180,20089,2 yr,3,175.4,Credit Card,North,2,23,Yes,2,No,2,Yes
+CUST1374,Male,53,9,Monthly,1723,6297,2 yr,1,50.36,Credit Card,West,3,11,No,4,Yes,4,No
+CUST1375,Male,44,13,Yearly,1710,18588,2 yr,5,158.09,NetBanking,West,2,3,Yes,3,No,3,Yes
+CUST1376,Male,33,23,Monthly,2169,7701,3 yr,5,53.23,UPI,West,4,29,No,3,No,4,Yes
+CUST1377,Male,46,7,Yearly,778,2224,3 yr,0,111.74,Credit Card,West,3,17,No,3,Yes,4,No
+CUST1378,Female,52,24,Yearly,547,17649,3 yr,3,61.53,NetBanking,South,1,5,No,1,Yes,3,No
+CUST1379,Male,27,33,Monthly,2883,14977,2 yr,6,69.0,UPI,North,3,3,No,4,Yes,1,No
+CUST1380,Male,23,35,Yearly,669,4210,1 yr,3,94.27,NetBanking,South,4,7,Yes,1,Yes,1,No
+CUST1381,Male,27,21,Yearly,1013,11923,3 yr,1,256.94,NetBanking,South,4,15,No,4,No,2,Yes
+CUST1382,Male,43,14,Yearly,1047,23735,2 yr,0,101.43,UPI,North,2,17,No,3,Yes,2,No
+CUST1383,Female,49,9,Monthly,2889,24628,2 yr,3,95.22,UPI,West,4,18,No,4,No,5,No
+CUST1384,Female,36,30,Monthly,2735,1183,2 yr,1,89.21,UPI,North,0,15,Yes,3,No,4,No
+CUST1385,Male,18,8,Monthly,2408,22101,2 yr,3,249.98,UPI,South,2,27,Yes,1,No,4,No
+CUST1386,Male,21,1,Monthly,1312,22430,2 yr,2,203.35,NetBanking,South,3,5,Yes,2,No,1,Yes
+CUST1387,Female,43,16,Yearly,2453,9138,2 yr,0,129.4,Credit Card,East,1,3,No,4,No,1,No
+CUST1388,Male,56,17,Yearly,1650,5718,1 yr,4,249.35,Credit Card,North,4,21,No,3,Yes,3,No
+CUST1389,Male,48,9,Yearly,1801,13208,1 yr,1,241.13,Credit Card,South,3,5,Yes,4,Yes,2,No
+CUST1390,Male,35,24,Yearly,2773,14881,1 yr,3,157.39,UPI,North,4,5,No,2,Yes,4,No
+CUST1391,Male,45,2,Monthly,1772,5505,3 yr,0,200.01,NetBanking,West,1,11,Yes,4,Yes,5,No
+CUST1392,Male,32,4,Yearly,2970,11508,3 yr,0,231.67,NetBanking,East,0,5,No,1,No,4,No
+CUST1393,Male,42,18,Yearly,626,12290,2 yr,3,61.73,UPI,East,4,11,Yes,2,Yes,3,No
+CUST1394,Male,49,32,Yearly,1339,15877,3 yr,2,134.68,Credit Card,South,3,12,No,2,No,1,No
+CUST1395,Male,41,28,Yearly,1512,7559,3 yr,5,281.59,UPI,North,1,24,Yes,4,Yes,3,Yes
+CUST1396,Male,48,13,Yearly,2224,16769,2 yr,1,269.04,UPI,East,1,14,No,3,No,3,No
+CUST1397,Male,19,26,Yearly,1900,24096,1 yr,6,168.72,NetBanking,East,1,16,No,2,No,3,No
+CUST1398,Female,52,17,Yearly,1202,13551,1 yr,3,277.28,Credit Card,South,0,21,Yes,3,Yes,4,No
+CUST1399,Female,42,22,Monthly,1852,20897,1 yr,6,123.5,NetBanking,East,0,18,No,3,Yes,4,No
+CUST1400,Male,36,25,Yearly,640,17627,2 yr,4,295.91,UPI,North,0,26,No,4,No,2,No
+CUST1401,Male,28,30,Monthly,2268,3418,1 yr,3,121.08,UPI,West,2,17,No,4,Yes,1,No
+CUST1402,Female,37,6,Monthly,1111,24510,3 yr,3,71.53,NetBanking,South,0,20,No,4,No,1,No
+CUST1403,Female,18,32,Yearly,2117,1627,2 yr,4,62.1,UPI,South,1,15,Yes,2,Yes,2,No
+CUST1404,Female,47,16,Monthly,2618,6250,3 yr,1,278.34,UPI,North,3,18,Yes,3,No,5,Yes
+CUST1405,Female,39,24,Monthly,2538,10430,3 yr,4,167.17,UPI,East,3,13,No,4,No,4,No
+CUST1406,Female,27,28,Yearly,1200,9098,2 yr,5,294.7,UPI,East,4,20,Yes,3,Yes,1,No
+CUST1407,Female,53,29,Monthly,2378,20229,3 yr,0,139.62,Credit Card,East,2,20,Yes,2,Yes,5,Yes
+CUST1408,Female,24,31,Yearly,2681,13190,1 yr,0,164.64,NetBanking,West,1,8,Yes,4,Yes,3,No
+CUST1409,Male,26,28,Monthly,2578,15159,2 yr,1,57.54,Credit Card,North,4,28,Yes,3,No,1,No
+CUST1410,Male,38,8,Monthly,2688,15552,3 yr,1,189.86,UPI,South,4,8,No,4,Yes,5,No
+CUST1411,Male,50,14,Yearly,599,16390,1 yr,1,237.63,UPI,West,4,2,No,2,Yes,3,No
+CUST1412,Male,30,16,Yearly,2718,10600,1 yr,1,119.22,NetBanking,South,3,21,Yes,2,No,1,Yes
+CUST1413,Male,41,16,Monthly,586,5828,3 yr,5,205.46,Credit Card,East,1,7,No,2,Yes,5,No
+CUST1414,Female,47,3,Yearly,2364,12171,2 yr,2,63.03,UPI,East,2,3,Yes,3,Yes,5,No
+CUST1415,Female,20,13,Monthly,1041,9617,2 yr,6,251.28,UPI,South,4,28,No,3,Yes,3,No
+CUST1416,Female,54,18,Monthly,1067,1946,3 yr,4,183.68,NetBanking,North,4,17,Yes,1,No,3,Yes
+CUST1417,Male,25,4,Monthly,1513,14813,1 yr,5,107.34,Credit Card,North,2,15,Yes,3,Yes,2,No
+CUST1418,Male,24,23,Yearly,2358,23421,1 yr,3,218.14,Credit Card,East,3,5,No,3,No,2,No
+CUST1419,Female,45,35,Yearly,1740,10025,1 yr,0,102.59,NetBanking,West,3,24,No,4,Yes,5,No
+CUST1420,Female,35,29,Yearly,580,2419,2 yr,1,254.4,Credit Card,West,1,3,No,2,No,1,No
+CUST1421,Male,31,6,Yearly,2495,17949,3 yr,0,167.32,NetBanking,East,4,3,No,4,Yes,1,No
+CUST1422,Female,37,27,Yearly,1537,23264,3 yr,6,202.18,Credit Card,North,0,22,Yes,3,Yes,5,No
+CUST1423,Male,55,15,Yearly,637,2587,3 yr,0,91.44,UPI,South,3,26,Yes,1,Yes,3,No
+CUST1424,Male,41,33,Monthly,939,17165,1 yr,2,98.03,Credit Card,South,1,27,No,1,Yes,4,No
+CUST1425,Male,43,11,Yearly,779,19699,3 yr,4,107.56,NetBanking,West,0,7,No,3,No,4,Yes
+CUST1426,Male,41,14,Monthly,2296,9336,3 yr,1,149.17,NetBanking,North,4,18,No,2,No,2,No
+CUST1427,Male,43,19,Yearly,1256,7492,1 yr,0,230.63,UPI,North,0,25,No,2,Yes,2,No
+CUST1428,Female,56,16,Yearly,668,14713,3 yr,1,93.73,UPI,South,0,1,Yes,2,Yes,4,No
+CUST1429,Male,18,6,Yearly,819,15048,3 yr,6,143.86,NetBanking,South,1,26,Yes,3,No,3,No
+CUST1430,Female,45,5,Monthly,1522,20806,2 yr,0,110.87,Credit Card,East,2,4,No,4,Yes,2,No
+CUST1431,Female,41,7,Monthly,2540,9086,3 yr,3,52.21,NetBanking,East,1,12,Yes,3,Yes,4,No
+CUST1432,Male,40,2,Yearly,1689,3838,2 yr,3,263.15,UPI,North,0,23,Yes,1,No,3,Yes
+CUST1433,Male,31,15,Monthly,2138,15492,1 yr,4,216.83,NetBanking,East,2,21,No,4,No,1,No
+CUST1434,Male,58,5,Monthly,1758,13085,3 yr,2,247.11,NetBanking,West,2,27,Yes,2,No,5,Yes
+CUST1435,Female,23,24,Monthly,1436,8560,3 yr,0,69.34,UPI,West,2,18,No,1,No,4,No
+CUST1436,Female,47,22,Yearly,1992,10181,3 yr,5,237.7,Credit Card,East,4,16,No,2,No,5,Yes
+CUST1437,Female,54,8,Yearly,1130,4724,2 yr,4,249.55,Credit Card,East,1,8,No,3,Yes,4,No
+CUST1438,Male,56,6,Monthly,2785,17402,3 yr,4,160.96,UPI,West,4,26,Yes,4,Yes,4,Yes
+CUST1439,Male,50,16,Yearly,1723,10557,3 yr,0,73.44,UPI,East,2,17,Yes,1,No,4,No
+CUST1440,Male,46,7,Yearly,963,16412,3 yr,6,107.82,Credit Card,East,1,7,No,3,No,1,No
+CUST1441,Male,55,6,Yearly,2226,10732,2 yr,4,107.45,NetBanking,South,2,25,Yes,2,Yes,3,No
+CUST1442,Female,53,2,Monthly,2777,21031,3 yr,3,196.81,Credit Card,West,2,7,No,4,Yes,4,No
+CUST1443,Female,38,23,Yearly,1907,14685,2 yr,3,234.83,Credit Card,West,4,26,Yes,4,No,1,No
+CUST1444,Female,54,17,Monthly,2869,16510,1 yr,3,176.34,Credit Card,East,2,7,No,3,No,3,Yes
+CUST1445,Female,42,32,Monthly,2375,3516,1 yr,3,200.28,UPI,East,1,27,Yes,4,Yes,1,No
+CUST1446,Male,28,12,Monthly,681,24859,1 yr,6,51.44,Credit Card,West,0,23,No,1,No,2,No
+CUST1447,Female,39,6,Yearly,1988,10859,3 yr,3,242.19,Credit Card,North,4,15,Yes,2,Yes,1,No
+CUST1448,Female,31,9,Yearly,1873,6305,3 yr,5,215.47,NetBanking,South,3,29,Yes,1,No,4,Yes
+CUST1449,Male,32,31,Yearly,1274,7078,2 yr,4,82.69,Credit Card,West,2,23,Yes,1,No,1,Yes
+CUST1450,Male,45,23,Monthly,1330,8197,2 yr,1,136.0,UPI,North,1,28,No,1,No,4,No
+CUST1451,Male,37,27,Yearly,1746,4305,1 yr,0,139.88,NetBanking,North,2,22,Yes,1,No,1,No
+CUST1452,Female,37,12,Monthly,2420,3645,3 yr,1,151.54,NetBanking,East,2,18,Yes,2,Yes,3,No
+CUST1453,Female,50,30,Yearly,2288,12426,3 yr,4,111.79,NetBanking,North,2,22,No,4,Yes,1,Yes
+CUST1454,Male,52,11,Monthly,1808,7065,3 yr,0,215.43,Credit Card,West,4,16,Yes,4,No,5,No
+CUST1455,Female,30,19,Monthly,1934,3782,3 yr,2,78.39,Credit Card,South,4,24,Yes,2,No,3,No
+CUST1456,Female,38,2,Monthly,1548,15627,1 yr,2,104.54,UPI,East,3,22,No,2,No,1,No
+CUST1457,Male,45,10,Monthly,2638,9391,2 yr,4,250.23,Credit Card,North,2,15,No,2,Yes,5,No
+CUST1458,Male,49,14,Monthly,2084,13180,1 yr,2,215.63,UPI,South,1,20,Yes,2,No,5,Yes
+CUST1459,Female,24,24,Yearly,2950,4216,1 yr,3,66.43,NetBanking,South,1,11,Yes,3,No,5,No
+CUST1460,Male,19,15,Yearly,2001,6416,1 yr,2,200.57,UPI,West,4,23,Yes,1,No,3,No
+CUST1461,Female,58,31,Yearly,1149,21458,1 yr,6,182.88,UPI,East,4,1,Yes,3,No,2,Yes
+CUST1462,Male,45,22,Yearly,2415,3885,3 yr,0,176.35,UPI,East,1,19,No,4,Yes,4,No
+CUST1463,Male,41,24,Monthly,819,23727,3 yr,2,220.42,UPI,East,1,10,Yes,3,No,1,No
+CUST1464,Male,34,15,Yearly,626,24462,3 yr,5,244.87,NetBanking,North,3,7,No,4,No,3,No
+CUST1465,Female,44,18,Monthly,1175,4503,3 yr,2,235.98,NetBanking,West,3,24,Yes,4,Yes,2,No
+CUST1466,Female,30,27,Monthly,2107,6600,1 yr,3,224.56,UPI,South,4,3,No,3,No,2,No
+CUST1467,Female,37,13,Yearly,2580,22020,3 yr,2,261.57,Credit Card,South,3,8,No,2,Yes,2,No
+CUST1468,Male,25,22,Yearly,2760,1243,3 yr,0,258.43,UPI,West,3,23,Yes,2,Yes,3,Yes
+CUST1469,Female,22,23,Yearly,2034,15155,2 yr,6,174.01,UPI,North,3,5,No,3,No,4,No
+CUST1470,Female,46,24,Monthly,1199,17970,1 yr,6,260.48,NetBanking,North,0,27,Yes,3,No,5,Yes
+CUST1471,Female,30,9,Monthly,2604,7240,2 yr,5,111.27,Credit Card,North,2,5,Yes,4,No,1,Yes
+CUST1472,Female,33,25,Monthly,2457,15541,3 yr,4,299.66,UPI,East,2,26,Yes,1,No,3,No
+CUST1473,Female,22,11,Monthly,2819,7835,2 yr,0,270.14,NetBanking,South,4,12,No,4,No,4,No
+CUST1474,Female,58,25,Yearly,1424,13328,3 yr,0,177.1,NetBanking,West,1,23,No,2,Yes,3,No
+CUST1475,Male,58,24,Yearly,1563,2104,3 yr,1,144.45,Credit Card,North,2,2,No,4,No,1,No
+CUST1476,Female,57,18,Yearly,1260,13458,1 yr,4,126.59,NetBanking,East,4,2,Yes,1,Yes,5,Yes
+CUST1477,Male,52,20,Yearly,2649,3447,2 yr,5,70.1,NetBanking,East,0,22,Yes,3,No,2,Yes
+CUST1478,Male,42,32,Yearly,2767,13454,3 yr,0,86.98,Credit Card,South,4,10,Yes,1,Yes,4,Yes
+CUST1479,Female,35,34,Monthly,1817,7443,3 yr,2,104.27,NetBanking,North,3,27,Yes,3,No,2,No
+CUST1480,Male,23,30,Monthly,653,2167,2 yr,2,130.71,NetBanking,North,0,27,Yes,1,No,5,No
+CUST1481,Male,37,32,Yearly,557,5540,3 yr,4,53.14,UPI,East,0,21,Yes,4,Yes,5,No
+CUST1482,Male,40,2,Monthly,1287,15989,2 yr,0,101.98,UPI,South,4,8,Yes,4,Yes,3,No
+CUST1483,Male,34,10,Yearly,2730,16083,3 yr,0,137.62,NetBanking,South,1,24,No,3,Yes,2,Yes
+CUST1484,Male,33,6,Monthly,2457,9682,3 yr,6,57.41,UPI,East,2,4,No,3,No,5,No
+CUST1485,Male,44,13,Monthly,2627,3719,1 yr,5,174.06,NetBanking,East,1,7,Yes,4,Yes,3,No
+CUST1486,Female,22,1,Monthly,2511,11427,1 yr,4,153.03,NetBanking,East,4,23,Yes,4,Yes,2,No
+CUST1487,Female,40,28,Monthly,2192,7054,1 yr,3,299.65,UPI,East,4,27,Yes,1,No,2,Yes
+CUST1488,Male,49,32,Monthly,1924,5449,3 yr,2,76.32,NetBanking,North,0,24,Yes,3,Yes,2,Yes
+CUST1489,Female,39,2,Yearly,1779,5857,1 yr,2,217.76,Credit Card,West,1,22,Yes,3,Yes,3,No
+CUST1490,Male,28,21,Monthly,2116,16346,3 yr,3,58.32,Credit Card,East,0,9,No,2,No,5,Yes
+CUST1491,Female,56,34,Yearly,2071,18691,3 yr,3,290.58,NetBanking,East,4,24,Yes,3,Yes,2,No
+CUST1492,Male,42,15,Monthly,2408,20625,2 yr,4,80.54,Credit Card,West,3,9,Yes,3,No,1,No
+CUST1493,Male,37,29,Monthly,591,12317,1 yr,0,194.11,NetBanking,North,3,18,Yes,3,No,4,No
+CUST1494,Male,33,24,Yearly,1553,19253,2 yr,3,99.49,UPI,South,1,10,Yes,3,Yes,1,No
+CUST1495,Female,33,25,Yearly,2467,14977,1 yr,1,106.95,NetBanking,North,3,22,Yes,4,No,4,No
+CUST1496,Female,55,20,Monthly,1005,3446,2 yr,0,59.58,NetBanking,West,2,17,No,3,No,5,No
+CUST1497,Male,51,24,Yearly,2705,2758,2 yr,1,58.75,UPI,West,1,26,Yes,1,Yes,3,Yes
+CUST1498,Male,34,15,Monthly,788,21052,3 yr,6,56.95,UPI,South,3,2,No,2,No,3,No
+CUST1499,Male,27,2,Monthly,691,20927,1 yr,0,238.12,Credit Card,East,0,1,Yes,2,No,2,No
+CUST1500,Female,20,17,Monthly,2728,9076,2 yr,5,149.75,NetBanking,South,3,29,Yes,3,Yes,2,No
+CUST1501,Male,27,28,Yearly,1168,10310,1 yr,6,285.0,Credit Card,North,3,4,No,3,No,3,No
+CUST1502,Female,43,35,Monthly,1528,9782,2 yr,0,181.39,NetBanking,North,0,4,Yes,4,No,4,Yes
+CUST1503,Male,20,3,Yearly,1299,23047,2 yr,1,104.4,UPI,East,1,3,No,4,No,1,No
+CUST1504,Male,46,33,Monthly,1307,2715,3 yr,1,106.16,Credit Card,North,3,28,No,4,Yes,3,Yes
+CUST1505,Male,25,21,Yearly,2467,4407,1 yr,6,228.41,Credit Card,South,2,13,Yes,2,Yes,4,No
+CUST1506,Female,20,24,Monthly,2014,9486,1 yr,5,236.42,UPI,North,2,29,No,1,Yes,5,Yes
+CUST1507,Female,22,5,Yearly,2754,9895,1 yr,2,50.54,Credit Card,West,1,23,No,4,No,1,No
+CUST1508,Female,40,3,Monthly,1358,20920,3 yr,3,164.71,Credit Card,East,1,29,No,3,No,3,No
+CUST1509,Female,20,7,Monthly,529,13328,3 yr,2,146.06,NetBanking,South,1,4,No,3,No,5,No
+CUST1510,Female,33,1,Monthly,1382,4715,2 yr,3,54.76,UPI,South,1,3,No,1,No,3,No
+CUST1511,Male,47,30,Monthly,2836,7405,1 yr,4,130.58,NetBanking,North,1,26,No,2,Yes,3,No
+CUST1512,Male,43,22,Yearly,1720,5370,3 yr,2,66.97,UPI,East,2,7,No,2,No,2,No
+CUST1513,Female,54,1,Yearly,2001,18576,2 yr,3,102.34,Credit Card,South,1,18,No,1,No,5,Yes
+CUST1514,Female,55,3,Monthly,881,17141,1 yr,0,181.43,NetBanking,North,2,19,No,3,No,5,Yes
+CUST1515,Male,50,26,Monthly,2987,21128,1 yr,5,277.79,UPI,West,2,29,No,1,Yes,4,No
+CUST1516,Male,52,3,Monthly,2149,24742,3 yr,4,265.32,UPI,South,2,13,No,1,No,5,Yes
+CUST1517,Male,47,26,Monthly,1483,9663,1 yr,5,57.85,NetBanking,South,1,17,No,3,Yes,5,No
+CUST1518,Male,37,18,Monthly,2846,15086,1 yr,6,209.87,UPI,East,2,4,Yes,4,Yes,5,Yes
+CUST1519,Female,59,10,Monthly,1919,10997,2 yr,6,262.34,UPI,South,4,16,No,3,No,2,No
+CUST1520,Female,46,31,Yearly,2094,19328,2 yr,4,145.08,Credit Card,West,1,3,No,4,No,2,No
+CUST1521,Female,36,6,Yearly,2686,8619,2 yr,2,158.76,Credit Card,West,2,26,Yes,3,No,1,No
+CUST1522,Female,50,10,Yearly,2631,12392,1 yr,6,102.33,NetBanking,West,2,14,No,1,No,2,No
+CUST1523,Female,36,30,Yearly,2491,7553,1 yr,5,151.31,NetBanking,East,1,17,No,3,Yes,4,No
+CUST1524,Male,36,28,Monthly,2755,7791,3 yr,6,71.86,NetBanking,North,3,27,Yes,3,Yes,4,No
+CUST1525,Female,47,8,Monthly,2745,19139,3 yr,0,165.83,UPI,South,3,16,No,4,No,1,No
+CUST1526,Male,27,19,Yearly,1386,1409,1 yr,5,69.08,NetBanking,North,3,23,No,2,Yes,5,Yes
+CUST1527,Female,30,2,Monthly,2273,9145,3 yr,3,129.83,UPI,East,0,24,No,1,No,1,No
+CUST1528,Male,19,18,Yearly,2165,3909,2 yr,3,259.29,Credit Card,South,2,25,No,1,Yes,1,No
+CUST1529,Female,42,21,Monthly,1789,18888,2 yr,5,126.26,Credit Card,North,0,6,No,4,No,4,No
+CUST1530,Male,48,10,Yearly,2294,17505,1 yr,0,129.81,Credit Card,East,2,6,No,1,Yes,4,No
+CUST1531,Male,22,13,Monthly,1268,24905,1 yr,2,101.45,NetBanking,South,2,23,Yes,1,No,3,No
+CUST1532,Female,27,26,Yearly,1799,13852,3 yr,4,225.84,NetBanking,East,1,3,Yes,1,Yes,3,No
+CUST1533,Male,37,6,Yearly,2415,24345,3 yr,2,269.26,NetBanking,West,1,21,Yes,3,Yes,2,No
+CUST1534,Male,56,24,Monthly,2028,2108,2 yr,0,298.78,Credit Card,West,2,3,Yes,1,Yes,4,Yes
+CUST1535,Female,28,15,Monthly,1299,24322,3 yr,1,158.99,Credit Card,West,3,10,No,3,Yes,4,No
+CUST1536,Male,26,34,Yearly,1659,15024,2 yr,3,79.16,Credit Card,North,2,24,No,2,Yes,2,No
+CUST1537,Male,47,3,Monthly,1961,11342,1 yr,3,285.27,NetBanking,North,1,25,Yes,3,No,3,No
+CUST1538,Female,26,32,Monthly,1232,20822,1 yr,4,249.13,Credit Card,West,2,25,No,4,No,1,No
+CUST1539,Male,45,7,Monthly,2669,21077,2 yr,0,254.13,Credit Card,North,0,26,Yes,1,No,4,No
+CUST1540,Female,41,14,Monthly,625,5065,3 yr,3,158.64,NetBanking,East,1,8,No,3,Yes,5,No
+CUST1541,Male,53,30,Monthly,1400,23861,2 yr,1,140.29,NetBanking,West,0,22,Yes,3,Yes,2,No
+CUST1542,Male,40,29,Monthly,1460,16002,3 yr,3,229.29,NetBanking,North,3,7,No,3,No,5,No
+CUST1543,Male,37,9,Yearly,1637,19142,3 yr,6,100.08,Credit Card,East,4,8,Yes,1,Yes,1,No
+CUST1544,Female,49,27,Yearly,2676,19868,3 yr,5,245.56,Credit Card,West,4,5,Yes,3,No,3,No
+CUST1545,Female,58,12,Yearly,956,17380,2 yr,5,129.78,NetBanking,East,2,21,No,2,No,4,No
+CUST1546,Female,31,8,Yearly,1079,8162,3 yr,0,103.83,UPI,North,2,28,No,4,Yes,5,No
+CUST1547,Male,55,22,Yearly,1432,10423,1 yr,6,225.67,UPI,East,2,6,Yes,4,No,1,No
+CUST1548,Female,55,22,Yearly,1809,19607,3 yr,1,259.27,UPI,South,0,18,No,2,No,5,No
+CUST1549,Female,44,29,Yearly,1475,24729,1 yr,6,196.01,Credit Card,West,0,10,Yes,3,Yes,4,No
+CUST1550,Male,23,34,Yearly,780,7708,3 yr,5,70.63,NetBanking,West,2,11,Yes,1,No,5,No
+CUST1551,Female,24,2,Yearly,2758,5709,2 yr,3,136.84,NetBanking,North,3,18,No,3,Yes,3,Yes
+CUST1552,Male,18,29,Monthly,1958,23325,1 yr,1,73.89,UPI,North,4,14,No,2,Yes,4,No
+CUST1553,Male,37,32,Yearly,2190,16609,1 yr,1,198.18,NetBanking,East,4,16,No,1,Yes,3,No
+CUST1554,Female,26,10,Monthly,527,4470,2 yr,2,234.37,UPI,North,2,14,Yes,1,No,3,Yes
+CUST1555,Male,29,35,Monthly,1106,18229,3 yr,0,270.58,UPI,East,1,16,No,4,Yes,2,No
+CUST1556,Male,27,4,Monthly,616,15119,1 yr,0,181.41,Credit Card,North,0,7,No,1,No,3,No
+CUST1557,Female,48,17,Monthly,2267,4096,1 yr,1,55.57,NetBanking,North,1,2,Yes,2,Yes,2,No
+CUST1558,Female,41,27,Yearly,596,21610,1 yr,1,138.95,NetBanking,South,1,1,Yes,4,Yes,4,No
+CUST1559,Female,38,2,Monthly,2403,2147,3 yr,5,204.01,Credit Card,West,4,22,No,2,Yes,3,No
+CUST1560,Male,51,2,Monthly,1616,10260,3 yr,0,278.2,NetBanking,South,0,9,Yes,3,No,1,Yes
+CUST1561,Male,29,7,Monthly,1534,17012,1 yr,0,140.18,Credit Card,North,3,2,Yes,2,No,1,Yes
+CUST1562,Female,46,12,Monthly,2397,20074,2 yr,2,154.29,NetBanking,East,4,15,No,2,Yes,5,Yes
+CUST1563,Male,50,4,Monthly,2028,2467,1 yr,6,180.25,NetBanking,North,0,15,No,1,Yes,4,Yes
+CUST1564,Female,48,31,Yearly,1272,6904,3 yr,3,173.14,UPI,North,4,12,No,1,No,4,Yes
+CUST1565,Male,36,24,Yearly,2442,3297,2 yr,3,166.37,NetBanking,South,0,6,No,1,Yes,5,Yes
+CUST1566,Male,23,12,Yearly,2294,5405,3 yr,6,276.08,NetBanking,East,2,29,No,4,No,1,No
+CUST1567,Female,49,29,Yearly,618,10490,3 yr,0,245.37,UPI,North,2,22,Yes,1,Yes,1,No
+CUST1568,Female,18,3,Monthly,930,15080,1 yr,3,194.44,NetBanking,East,2,22,Yes,4,No,5,No
+CUST1569,Male,56,29,Yearly,1315,7721,2 yr,6,62.4,Credit Card,West,2,7,Yes,1,No,5,No
+CUST1570,Female,46,6,Yearly,1264,7468,3 yr,6,112.81,Credit Card,South,4,22,No,2,No,3,No
+CUST1571,Female,39,24,Yearly,1320,13993,1 yr,4,240.64,UPI,West,4,5,No,1,No,4,No
+CUST1572,Male,39,23,Yearly,1093,6886,3 yr,5,187.97,NetBanking,North,1,5,Yes,4,Yes,4,No
+CUST1573,Female,20,33,Yearly,712,19873,2 yr,2,151.65,UPI,East,1,21,No,4,Yes,1,Yes
+CUST1574,Female,22,5,Monthly,2758,22454,2 yr,1,204.13,Credit Card,East,4,18,No,3,No,5,No
+CUST1575,Male,44,18,Monthly,2200,20709,2 yr,4,92.43,Credit Card,South,0,12,Yes,3,Yes,4,No
+CUST1576,Male,55,27,Yearly,1605,5454,1 yr,5,61.85,Credit Card,East,4,7,Yes,2,No,2,Yes
+CUST1577,Female,40,20,Yearly,2559,21289,3 yr,5,265.66,UPI,West,3,9,No,2,Yes,2,No
+CUST1578,Female,37,4,Monthly,945,23028,3 yr,3,271.06,UPI,South,3,9,Yes,3,No,2,No
+CUST1579,Female,21,23,Monthly,1558,21033,2 yr,1,63.46,UPI,North,2,2,Yes,2,Yes,3,No
+CUST1580,Female,33,27,Yearly,1407,22157,3 yr,0,246.31,NetBanking,West,2,14,No,4,Yes,1,Yes
+CUST1581,Female,42,17,Monthly,2739,7361,2 yr,5,273.73,UPI,North,4,8,Yes,1,No,4,No
+CUST1582,Male,53,7,Monthly,2121,15857,2 yr,0,76.73,NetBanking,North,2,3,No,2,Yes,2,Yes
+CUST1583,Female,22,20,Monthly,2929,21281,3 yr,6,231.31,UPI,South,4,15,Yes,4,Yes,2,No
+CUST1584,Male,59,15,Yearly,1233,7923,2 yr,3,258.91,Credit Card,West,2,5,No,4,Yes,2,No
+CUST1585,Female,57,10,Yearly,2383,15404,3 yr,3,153.34,Credit Card,North,4,7,Yes,2,No,1,No
+CUST1586,Male,27,10,Yearly,833,20739,3 yr,5,74.43,NetBanking,East,0,1,No,4,Yes,4,No
+CUST1587,Female,42,3,Yearly,2497,15665,3 yr,1,75.97,UPI,South,4,8,Yes,2,Yes,2,No
+CUST1588,Female,25,19,Yearly,1495,4749,2 yr,5,211.2,UPI,West,3,8,No,3,No,3,No
+CUST1589,Male,33,27,Yearly,2206,5807,3 yr,4,199.65,Credit Card,South,3,15,No,3,No,5,Yes
+CUST1590,Male,22,5,Monthly,845,5356,1 yr,0,294.1,Credit Card,South,1,11,Yes,3,No,5,No
+CUST1591,Female,58,29,Yearly,2876,14168,1 yr,5,227.57,Credit Card,West,4,5,Yes,3,Yes,1,No
+CUST1592,Male,27,11,Monthly,605,11062,2 yr,2,264.4,Credit Card,West,3,14,Yes,1,Yes,5,No
+CUST1593,Male,50,6,Monthly,2301,1569,2 yr,0,73.65,NetBanking,North,3,3,Yes,4,No,1,No
+CUST1594,Male,29,32,Monthly,1771,5833,3 yr,6,196.09,NetBanking,East,4,11,Yes,4,No,1,No
+CUST1595,Female,51,30,Monthly,1812,6332,3 yr,2,66.19,NetBanking,North,3,10,No,3,No,3,No
+CUST1596,Male,40,2,Yearly,1499,11536,1 yr,3,181.12,NetBanking,South,1,14,No,4,Yes,4,No
+CUST1597,Female,54,10,Yearly,2933,12362,1 yr,2,247.39,UPI,North,3,17,No,3,Yes,5,No
+CUST1598,Female,38,26,Monthly,2152,2817,2 yr,5,215.69,Credit Card,West,3,5,No,1,Yes,4,No
+CUST1599,Female,31,16,Monthly,1076,15662,2 yr,3,297.33,UPI,South,3,18,Yes,3,Yes,5,Yes
+CUST1600,Female,59,31,Yearly,1543,8994,3 yr,0,174.75,NetBanking,South,2,11,No,3,No,1,No
+CUST1601,Female,35,5,Monthly,1462,21679,1 yr,1,253.27,Credit Card,North,1,26,Yes,2,No,2,No
+CUST1602,Male,41,31,Yearly,723,1694,1 yr,3,233.06,UPI,East,2,29,Yes,3,Yes,3,No
+CUST1603,Male,46,5,Monthly,1328,7462,1 yr,3,142.94,UPI,West,2,7,No,3,No,3,Yes
+CUST1604,Female,58,16,Monthly,2445,6066,3 yr,6,211.68,UPI,East,2,19,Yes,2,No,5,Yes
+CUST1605,Male,37,21,Monthly,775,9065,1 yr,3,107.53,UPI,West,4,11,Yes,4,No,2,Yes
+CUST1606,Female,47,14,Monthly,2348,20066,3 yr,5,63.95,Credit Card,South,3,18,Yes,2,Yes,1,No
+CUST1607,Female,21,23,Monthly,1733,9015,3 yr,6,274.49,Credit Card,South,2,22,Yes,3,No,4,No
+CUST1608,Female,19,14,Yearly,2713,13033,1 yr,6,207.52,Credit Card,South,0,21,No,3,Yes,4,No
+CUST1609,Female,27,15,Yearly,537,7629,1 yr,5,51.56,UPI,North,0,29,No,3,Yes,2,Yes
+CUST1610,Male,40,29,Monthly,2718,9542,1 yr,2,66.05,Credit Card,West,4,29,Yes,1,No,2,No
+CUST1611,Female,30,25,Monthly,2955,18516,2 yr,1,62.94,NetBanking,North,4,25,Yes,2,No,5,No
+CUST1612,Female,33,30,Yearly,2845,13170,1 yr,1,198.05,NetBanking,East,2,20,No,2,No,1,Yes
+CUST1613,Male,43,21,Yearly,2736,20504,3 yr,5,202.72,UPI,North,0,6,Yes,2,No,1,No
+CUST1614,Male,25,12,Yearly,1880,16780,3 yr,4,236.83,NetBanking,South,2,4,Yes,4,Yes,1,No
+CUST1615,Male,19,23,Yearly,1039,10392,2 yr,0,127.89,Credit Card,West,2,1,No,3,No,5,Yes
+CUST1616,Male,51,3,Monthly,1928,22531,1 yr,6,288.08,UPI,West,2,24,No,1,No,5,Yes
+CUST1617,Male,27,26,Yearly,1217,19234,2 yr,4,138.49,Credit Card,South,3,21,No,1,Yes,4,No
+CUST1618,Male,46,5,Monthly,2959,19751,3 yr,5,163.69,UPI,East,4,11,No,4,No,5,No
+CUST1619,Female,19,21,Yearly,1529,22444,1 yr,1,101.06,Credit Card,East,0,16,No,3,Yes,5,Yes
+CUST1620,Female,56,35,Yearly,2382,1729,2 yr,2,185.34,NetBanking,West,3,1,Yes,2,No,3,No
+CUST1621,Female,37,13,Monthly,2264,7812,2 yr,4,160.21,UPI,South,2,3,No,4,No,1,No
+CUST1622,Male,30,24,Monthly,2155,19676,3 yr,3,161.34,Credit Card,South,0,19,No,1,Yes,4,Yes
+CUST1623,Male,29,33,Yearly,885,15356,2 yr,3,199.28,Credit Card,West,4,17,No,4,No,4,No
+CUST1624,Female,45,24,Yearly,2228,22439,3 yr,1,259.11,UPI,South,3,23,No,4,Yes,2,No
+CUST1625,Female,46,20,Monthly,2221,7307,3 yr,5,279.61,NetBanking,West,2,20,No,1,No,3,No
+CUST1626,Male,21,20,Monthly,2357,16814,1 yr,3,68.54,Credit Card,North,1,2,Yes,4,Yes,3,No
+CUST1627,Female,23,29,Yearly,2468,4008,2 yr,0,196.79,NetBanking,South,0,3,Yes,3,Yes,4,No
+CUST1628,Female,46,11,Yearly,1379,21838,2 yr,5,183.04,Credit Card,East,2,26,Yes,3,Yes,3,Yes
+CUST1629,Male,22,4,Yearly,1099,13997,2 yr,4,257.74,NetBanking,South,1,19,Yes,3,No,5,No
+CUST1630,Female,40,15,Yearly,2925,1839,1 yr,2,151.17,Credit Card,South,3,27,No,3,Yes,1,No
+CUST1631,Male,34,23,Yearly,1609,18268,1 yr,4,78.96,Credit Card,South,0,21,No,1,Yes,1,Yes
+CUST1632,Female,28,12,Monthly,889,22798,1 yr,6,278.23,Credit Card,East,4,3,No,1,No,4,Yes
+CUST1633,Male,46,23,Yearly,1487,20925,3 yr,1,263.83,NetBanking,East,0,17,No,2,No,5,No
+CUST1634,Female,22,20,Monthly,2545,1831,3 yr,3,285.23,Credit Card,North,0,16,Yes,4,Yes,1,No
+CUST1635,Male,58,11,Yearly,1925,14767,3 yr,5,259.8,Credit Card,West,0,21,No,2,No,3,No
+CUST1636,Female,42,3,Yearly,2866,12303,2 yr,6,288.67,Credit Card,South,1,6,Yes,3,No,2,Yes
+CUST1637,Male,21,6,Monthly,1710,3846,2 yr,5,273.72,NetBanking,West,2,27,Yes,4,No,1,No
+CUST1638,Female,52,14,Yearly,2387,1182,1 yr,5,73.76,Credit Card,East,3,2,Yes,1,Yes,3,No
+CUST1639,Female,56,10,Monthly,2625,1436,2 yr,2,273.14,Credit Card,West,0,6,Yes,4,Yes,5,No
+CUST1640,Female,21,30,Monthly,2258,18224,2 yr,2,67.86,UPI,North,4,20,Yes,2,Yes,4,Yes
+CUST1641,Male,51,1,Yearly,1177,20196,1 yr,3,234.4,NetBanking,East,2,3,No,4,No,1,No
+CUST1642,Male,54,31,Yearly,2718,18587,1 yr,3,217.13,UPI,East,2,17,Yes,1,Yes,4,No
+CUST1643,Male,56,35,Monthly,1579,9801,3 yr,2,198.44,NetBanking,North,2,16,No,4,No,1,Yes
+CUST1644,Male,58,25,Yearly,2701,7492,2 yr,0,276.32,UPI,North,3,27,Yes,2,Yes,1,No
+CUST1645,Female,56,20,Yearly,2211,16465,1 yr,4,298.67,NetBanking,North,2,21,Yes,1,Yes,3,Yes
+CUST1646,Female,46,14,Monthly,1016,8941,2 yr,1,72.65,UPI,East,1,2,Yes,4,Yes,3,Yes
+CUST1647,Male,36,6,Yearly,572,10834,1 yr,2,84.84,NetBanking,East,1,6,Yes,4,Yes,1,No
+CUST1648,Male,37,20,Yearly,1372,21519,3 yr,3,279.77,NetBanking,North,0,18,No,1,Yes,4,No
+CUST1649,Female,24,17,Monthly,1560,14565,1 yr,6,78.13,Credit Card,South,4,28,Yes,3,No,2,No
+CUST1650,Female,47,17,Yearly,2156,14060,2 yr,6,236.71,NetBanking,South,1,2,No,2,Yes,5,Yes
+CUST1651,Female,30,6,Monthly,997,13637,1 yr,4,183.91,Credit Card,South,0,4,Yes,3,Yes,2,No
+CUST1652,Male,47,7,Monthly,504,20788,3 yr,6,179.05,Credit Card,South,0,6,No,3,No,3,No
+CUST1653,Male,49,22,Yearly,2891,20026,3 yr,4,69.85,UPI,North,1,20,Yes,1,Yes,4,No
+CUST1654,Female,37,5,Yearly,513,4692,3 yr,0,65.88,UPI,South,4,29,No,1,Yes,2,No
+CUST1655,Female,31,17,Monthly,1517,7360,3 yr,2,218.05,NetBanking,North,0,5,Yes,2,Yes,3,No
+CUST1656,Female,59,8,Yearly,1499,18135,3 yr,5,203.76,Credit Card,East,4,25,Yes,1,No,3,No
+CUST1657,Male,48,29,Yearly,1606,15910,3 yr,1,294.09,UPI,South,3,24,Yes,4,No,3,No
+CUST1658,Male,23,24,Yearly,1182,21553,2 yr,2,117.94,NetBanking,East,1,8,Yes,4,No,4,No
+CUST1659,Female,32,9,Yearly,723,15765,3 yr,3,113.97,UPI,South,3,17,No,2,No,2,No
+CUST1660,Female,18,19,Monthly,835,16189,3 yr,1,164.81,NetBanking,East,4,1,No,1,No,4,No
+CUST1661,Male,52,23,Yearly,1074,12459,3 yr,4,82.59,Credit Card,East,2,18,No,4,No,3,No
+CUST1662,Male,34,9,Monthly,1124,17472,2 yr,3,69.98,UPI,East,3,28,No,4,No,3,No
+CUST1663,Female,46,33,Monthly,747,15915,3 yr,0,288.47,NetBanking,West,1,16,Yes,3,No,2,No
+CUST1664,Male,54,34,Yearly,770,1112,1 yr,3,231.4,NetBanking,South,1,7,No,3,No,5,Yes
+CUST1665,Female,37,30,Yearly,728,17522,3 yr,1,279.47,NetBanking,North,3,17,Yes,1,Yes,2,Yes
+CUST1666,Female,59,19,Monthly,901,24769,2 yr,0,158.91,Credit Card,South,2,24,Yes,2,No,2,No
+CUST1667,Male,49,12,Monthly,1468,10712,1 yr,2,288.79,UPI,East,4,1,No,3,No,1,No
+CUST1668,Female,35,20,Yearly,1893,6409,2 yr,4,134.54,NetBanking,West,4,24,No,3,No,1,No
+CUST1669,Female,31,26,Yearly,2348,22322,3 yr,1,184.32,NetBanking,West,0,18,Yes,4,Yes,3,No
+CUST1670,Female,59,21,Monthly,1965,6494,2 yr,3,278.44,UPI,North,4,24,Yes,3,No,3,No
+CUST1671,Male,54,4,Yearly,2450,1719,1 yr,4,51.6,NetBanking,West,0,14,Yes,1,Yes,1,No
+CUST1672,Male,44,13,Monthly,1954,21306,2 yr,0,121.51,Credit Card,West,4,21,Yes,3,No,1,No
+CUST1673,Female,19,10,Monthly,2690,16189,1 yr,5,204.89,NetBanking,North,3,11,No,4,Yes,2,No
+CUST1674,Male,30,28,Monthly,2298,21367,3 yr,4,234.11,NetBanking,South,2,20,Yes,2,No,4,No
+CUST1675,Female,42,10,Yearly,2481,24341,3 yr,5,242.11,UPI,West,1,9,No,4,No,4,Yes
+CUST1676,Female,31,24,Monthly,2991,12108,3 yr,6,62.03,Credit Card,West,0,5,Yes,3,Yes,4,No
+CUST1677,Female,40,25,Yearly,1626,16566,1 yr,0,73.04,NetBanking,East,1,12,Yes,1,No,4,No
+CUST1678,Female,58,30,Monthly,2594,18580,2 yr,4,173.99,UPI,North,4,13,Yes,1,Yes,2,No
+CUST1679,Female,39,8,Monthly,833,17913,1 yr,4,100.34,UPI,West,4,21,No,2,Yes,4,No
+CUST1680,Female,19,16,Yearly,2753,9681,2 yr,4,289.4,NetBanking,East,0,6,No,3,No,5,No
+CUST1681,Female,34,7,Monthly,2033,11380,2 yr,1,54.57,Credit Card,West,1,11,No,4,No,5,No
+CUST1682,Male,44,11,Monthly,1900,19589,3 yr,1,111.48,NetBanking,North,3,25,Yes,3,Yes,2,No
+CUST1683,Male,37,21,Yearly,1975,23846,2 yr,6,276.31,UPI,East,4,25,No,4,Yes,1,Yes
+CUST1684,Female,57,34,Yearly,1542,8778,2 yr,4,116.55,Credit Card,North,4,8,No,3,Yes,1,No
+CUST1685,Female,44,31,Monthly,2531,17360,3 yr,2,52.7,UPI,South,3,8,Yes,1,Yes,5,No
+CUST1686,Male,38,6,Yearly,972,17956,3 yr,4,55.85,Credit Card,South,0,10,No,4,No,5,No
+CUST1687,Male,52,1,Yearly,1090,6271,1 yr,3,93.17,Credit Card,East,4,22,No,2,Yes,5,No
+CUST1688,Female,25,22,Monthly,2149,21406,2 yr,2,54.54,Credit Card,South,3,2,No,2,No,3,Yes
+CUST1689,Male,55,2,Yearly,845,2132,1 yr,1,106.91,NetBanking,South,2,28,Yes,1,No,3,No
+CUST1690,Female,48,3,Monthly,2354,18010,1 yr,0,142.34,Credit Card,South,4,28,Yes,3,No,5,Yes
+CUST1691,Female,33,18,Monthly,1391,19931,1 yr,5,129.07,UPI,West,3,5,No,4,Yes,5,Yes
+CUST1692,Female,45,24,Monthly,940,11377,3 yr,0,228.18,UPI,North,2,3,Yes,2,Yes,4,Yes
+CUST1693,Male,54,2,Yearly,1371,6994,3 yr,6,100.28,NetBanking,North,2,7,No,4,Yes,5,No
+CUST1694,Female,24,27,Monthly,2697,19143,1 yr,1,277.61,Credit Card,West,2,26,Yes,1,No,1,No
+CUST1695,Male,50,31,Yearly,896,11853,1 yr,1,76.17,Credit Card,East,3,5,Yes,2,No,1,Yes
+CUST1696,Male,48,1,Monthly,1015,18219,2 yr,0,148.9,UPI,South,3,9,No,1,Yes,1,Yes
+CUST1697,Male,21,17,Monthly,2239,15638,2 yr,6,245.26,NetBanking,North,0,4,Yes,2,No,2,No
+CUST1698,Male,40,34,Yearly,848,21957,3 yr,3,199.91,Credit Card,South,4,8,Yes,2,Yes,2,No
+CUST1699,Female,30,33,Yearly,1731,20519,2 yr,2,75.75,Credit Card,South,2,23,No,2,No,2,Yes
+CUST1700,Male,48,21,Monthly,2803,16534,2 yr,1,96.15,UPI,South,0,20,Yes,2,No,4,No
+CUST1701,Female,42,29,Monthly,2855,19780,1 yr,5,60.93,UPI,East,0,22,No,3,No,5,No
+CUST1702,Female,35,9,Monthly,2534,6594,2 yr,5,182.26,UPI,West,4,27,Yes,1,No,2,No
+CUST1703,Female,36,8,Yearly,2997,7230,2 yr,0,274.9,UPI,South,2,27,No,2,Yes,1,Yes
+CUST1704,Male,44,25,Monthly,862,19876,3 yr,2,293.82,Credit Card,South,0,8,Yes,2,No,2,Yes
+CUST1705,Male,32,15,Monthly,2459,10628,1 yr,0,65.47,Credit Card,East,3,12,Yes,2,Yes,1,No
+CUST1706,Male,32,30,Yearly,2472,18252,1 yr,2,250.6,NetBanking,East,3,17,Yes,4,Yes,1,Yes
+CUST1707,Female,46,11,Yearly,1978,16567,3 yr,5,116.98,NetBanking,South,1,18,No,3,No,1,Yes
+CUST1708,Female,31,35,Yearly,1183,5935,1 yr,3,236.36,NetBanking,South,0,11,Yes,4,No,4,Yes
+CUST1709,Male,40,17,Yearly,2116,7760,1 yr,1,112.82,NetBanking,South,1,1,Yes,2,No,5,No
+CUST1710,Female,34,13,Monthly,1432,20922,1 yr,6,130.7,Credit Card,West,4,29,No,2,No,5,Yes
+CUST1711,Female,30,24,Yearly,1194,20492,2 yr,3,151.15,UPI,West,0,8,No,4,No,5,Yes
+CUST1712,Female,58,30,Yearly,1234,17707,1 yr,4,198.99,Credit Card,East,1,10,No,4,Yes,4,No
+CUST1713,Female,36,1,Monthly,992,22900,2 yr,1,273.23,Credit Card,East,3,22,Yes,2,Yes,4,No
+CUST1714,Male,27,30,Monthly,1359,3593,1 yr,0,238.01,Credit Card,West,0,29,Yes,2,No,3,Yes
+CUST1715,Male,50,30,Monthly,2901,1433,1 yr,4,124.84,NetBanking,South,4,1,Yes,1,No,2,No
+CUST1716,Male,49,27,Monthly,827,10962,2 yr,0,167.45,NetBanking,North,3,9,No,4,No,1,No
+CUST1717,Female,34,26,Yearly,2237,23257,1 yr,6,223.64,NetBanking,West,0,8,No,4,No,4,No
+CUST1718,Female,21,29,Yearly,2898,20215,2 yr,5,51.21,UPI,East,3,6,No,4,No,2,No
+CUST1719,Male,32,31,Monthly,1614,6553,2 yr,2,296.15,Credit Card,North,1,20,Yes,4,Yes,3,Yes
+CUST1720,Female,55,6,Yearly,1435,21704,2 yr,3,179.57,Credit Card,South,4,24,Yes,1,No,3,No
+CUST1721,Male,35,16,Monthly,857,13163,1 yr,0,136.38,Credit Card,South,4,12,Yes,3,No,4,No
+CUST1722,Male,32,1,Yearly,774,24779,2 yr,4,185.84,Credit Card,South,4,29,No,4,Yes,1,No
+CUST1723,Female,53,20,Yearly,1381,22980,3 yr,2,141.18,UPI,North,1,10,Yes,3,No,1,No
+CUST1724,Male,41,11,Yearly,636,22710,3 yr,0,148.26,UPI,North,2,9,Yes,4,Yes,3,No
+CUST1725,Male,35,13,Yearly,2284,16840,2 yr,0,61.43,NetBanking,South,1,7,No,4,Yes,2,No
+CUST1726,Male,21,4,Monthly,588,22798,1 yr,5,157.46,Credit Card,West,0,12,Yes,4,Yes,2,No
+CUST1727,Male,39,27,Monthly,1491,12087,3 yr,2,248.29,UPI,South,0,11,Yes,4,Yes,5,Yes
+CUST1728,Male,27,27,Monthly,926,1493,3 yr,1,151.56,UPI,South,1,21,No,3,No,2,Yes
+CUST1729,Female,51,23,Monthly,541,23401,2 yr,6,160.51,UPI,East,3,15,Yes,3,Yes,5,No
+CUST1730,Female,21,26,Monthly,854,10481,2 yr,5,125.26,UPI,West,4,14,No,3,Yes,5,No
+CUST1731,Male,48,6,Yearly,2201,5394,3 yr,2,53.9,Credit Card,North,1,17,Yes,4,No,4,No
+CUST1732,Female,19,13,Yearly,2321,12028,2 yr,2,106.64,NetBanking,South,1,20,No,3,No,5,Yes
+CUST1733,Female,29,6,Yearly,1396,9031,1 yr,6,196.0,Credit Card,South,4,8,Yes,4,Yes,4,Yes
+CUST1734,Female,49,31,Monthly,1437,15645,2 yr,2,228.84,NetBanking,East,1,22,No,1,Yes,3,No
+CUST1735,Female,57,28,Yearly,948,7655,2 yr,3,179.91,NetBanking,South,2,2,Yes,3,No,1,Yes
+CUST1736,Male,56,4,Yearly,1785,20136,1 yr,6,55.79,UPI,East,4,13,Yes,4,No,1,Yes
+CUST1737,Male,41,28,Yearly,883,19150,2 yr,6,287.25,UPI,East,4,22,No,3,Yes,3,No
+CUST1738,Female,47,22,Monthly,510,9223,2 yr,1,295.74,NetBanking,North,0,11,No,2,No,5,No
+CUST1739,Female,32,13,Monthly,1598,24632,2 yr,1,275.41,UPI,North,2,29,No,4,No,1,No
+CUST1740,Male,43,24,Yearly,1920,7411,2 yr,3,141.35,Credit Card,South,2,12,Yes,1,Yes,4,Yes
+CUST1741,Male,56,30,Monthly,1124,13968,2 yr,0,124.16,NetBanking,East,0,25,No,2,Yes,4,No
+CUST1742,Male,54,11,Monthly,1556,6581,1 yr,6,200.25,UPI,South,3,19,Yes,4,Yes,1,No
+CUST1743,Male,39,23,Monthly,667,1891,1 yr,2,148.6,Credit Card,East,2,5,Yes,4,No,2,Yes
+CUST1744,Male,28,25,Monthly,2709,19314,1 yr,6,256.79,NetBanking,North,3,3,No,3,Yes,2,No
+CUST1745,Male,29,7,Yearly,2849,3159,3 yr,2,269.67,NetBanking,South,2,8,Yes,4,No,5,No
+CUST1746,Female,57,26,Monthly,920,21883,3 yr,2,154.3,Credit Card,South,4,29,No,4,Yes,4,Yes
+CUST1747,Male,47,11,Monthly,2314,17989,2 yr,0,52.56,NetBanking,East,1,17,Yes,2,No,1,No
+CUST1748,Female,35,2,Monthly,1758,24739,3 yr,1,208.54,NetBanking,West,0,19,Yes,3,No,4,Yes
+CUST1749,Male,34,6,Monthly,1011,23370,1 yr,4,298.08,Credit Card,South,1,8,No,3,Yes,3,No
+CUST1750,Female,22,19,Yearly,1543,18063,3 yr,4,96.16,NetBanking,West,4,21,Yes,2,No,3,No
+CUST1751,Male,53,23,Monthly,2933,4618,1 yr,1,186.66,NetBanking,South,4,5,Yes,2,No,2,Yes
+CUST1752,Female,59,20,Monthly,2202,19787,1 yr,3,276.52,Credit Card,North,1,26,No,3,Yes,4,No
+CUST1753,Female,57,18,Monthly,2832,10430,3 yr,5,238.72,Credit Card,West,1,21,Yes,2,Yes,1,No
+CUST1754,Female,29,28,Monthly,798,14147,1 yr,6,112.37,NetBanking,South,4,7,No,2,No,2,No
+CUST1755,Female,37,29,Monthly,2447,18103,2 yr,1,270.24,UPI,North,1,27,Yes,1,No,4,No
+CUST1756,Male,54,31,Monthly,1478,24758,3 yr,5,209.95,NetBanking,East,1,13,No,3,No,5,Yes
+CUST1757,Male,49,23,Yearly,1735,11370,2 yr,1,264.0,NetBanking,North,1,16,No,2,Yes,5,No
+CUST1758,Male,48,6,Monthly,2084,12827,2 yr,4,288.62,Credit Card,East,1,6,Yes,1,No,4,No
+CUST1759,Male,57,25,Monthly,1407,23027,2 yr,3,171.79,UPI,West,1,26,Yes,1,Yes,4,No
+CUST1760,Female,59,13,Yearly,2524,10094,1 yr,2,136.0,Credit Card,North,1,28,Yes,2,Yes,2,No
+CUST1761,Female,41,14,Yearly,1740,8932,2 yr,0,77.85,NetBanking,South,1,1,No,4,Yes,3,No
+CUST1762,Male,24,21,Yearly,1043,7893,1 yr,2,100.58,NetBanking,South,2,7,Yes,3,Yes,1,No
+CUST1763,Female,30,9,Monthly,1945,3031,3 yr,2,90.11,Credit Card,East,0,28,No,2,Yes,2,No
+CUST1764,Male,19,31,Yearly,1464,15424,3 yr,1,136.81,Credit Card,East,1,11,No,3,Yes,2,No
+CUST1765,Male,33,33,Monthly,2183,14433,2 yr,4,243.79,Credit Card,North,2,1,No,4,Yes,1,No
+CUST1766,Female,31,13,Yearly,1452,24251,2 yr,1,142.04,Credit Card,South,0,10,No,2,No,2,No
+CUST1767,Female,20,25,Monthly,848,9386,3 yr,0,220.72,UPI,East,2,29,No,4,No,5,No
+CUST1768,Male,40,25,Yearly,2765,22009,2 yr,2,160.24,UPI,South,0,1,No,4,No,4,No
+CUST1769,Male,35,2,Monthly,2008,23173,2 yr,5,59.7,NetBanking,South,3,14,No,3,No,2,No
+CUST1770,Female,24,2,Monthly,1277,10496,1 yr,3,92.35,Credit Card,North,1,25,Yes,3,Yes,1,Yes
+CUST1771,Female,34,35,Yearly,1817,17922,1 yr,2,107.32,UPI,West,0,8,No,3,No,5,No
+CUST1772,Male,45,19,Monthly,2157,2123,2 yr,3,163.4,NetBanking,East,4,26,Yes,3,Yes,1,No
+CUST1773,Female,29,19,Monthly,1931,21498,1 yr,3,198.77,NetBanking,East,4,27,Yes,3,No,5,No
+CUST1774,Male,52,18,Yearly,2759,14157,3 yr,0,213.55,Credit Card,North,2,6,Yes,3,No,5,No
+CUST1775,Female,58,10,Yearly,2304,21448,1 yr,5,159.31,UPI,North,0,6,Yes,4,Yes,4,Yes
+CUST1776,Female,38,5,Monthly,2911,6128,1 yr,0,210.4,Credit Card,North,3,9,No,2,Yes,5,No
+CUST1777,Male,19,27,Yearly,2406,17150,2 yr,2,176.55,Credit Card,North,4,12,No,3,Yes,1,No
+CUST1778,Female,39,3,Yearly,1687,6746,3 yr,2,81.33,UPI,West,1,20,No,1,No,1,No
+CUST1779,Female,40,35,Yearly,2392,11906,1 yr,6,285.57,NetBanking,South,1,12,Yes,4,No,5,No
+CUST1780,Female,54,14,Yearly,1081,7306,1 yr,6,158.28,NetBanking,West,2,22,No,1,No,3,No
+CUST1781,Female,56,32,Yearly,1193,6326,3 yr,2,59.97,UPI,East,1,9,No,4,No,5,No
+CUST1782,Female,46,24,Monthly,2722,13348,3 yr,1,77.88,Credit Card,West,4,24,Yes,4,No,2,No
+CUST1783,Female,25,27,Monthly,2359,8571,2 yr,3,61.28,Credit Card,South,4,24,No,2,No,5,No
+CUST1784,Female,35,2,Monthly,1290,18032,2 yr,4,220.87,UPI,West,4,15,No,1,Yes,5,No
+CUST1785,Male,21,2,Monthly,1028,24812,2 yr,0,202.85,UPI,South,2,18,No,3,No,2,No
+CUST1786,Female,29,27,Yearly,2217,17266,3 yr,4,123.59,Credit Card,West,4,27,Yes,2,Yes,5,Yes
+CUST1787,Female,22,3,Monthly,2481,14419,3 yr,2,131.47,UPI,East,3,1,Yes,1,Yes,5,Yes
+CUST1788,Male,43,5,Monthly,633,6541,3 yr,1,169.68,NetBanking,East,2,5,Yes,2,No,3,Yes
+CUST1789,Female,54,2,Yearly,534,22994,1 yr,4,182.42,NetBanking,South,3,22,Yes,3,No,1,No
+CUST1790,Male,51,29,Yearly,2583,17033,2 yr,2,143.25,NetBanking,South,0,15,No,1,No,4,No
+CUST1791,Male,38,19,Yearly,2125,17451,3 yr,1,210.06,NetBanking,West,0,15,No,4,Yes,5,No
+CUST1792,Female,29,34,Yearly,1902,11646,2 yr,6,154.31,NetBanking,West,3,29,No,2,Yes,2,No
+CUST1793,Male,45,13,Yearly,1648,19471,2 yr,2,190.69,Credit Card,East,4,6,Yes,2,No,1,No
+CUST1794,Female,45,6,Yearly,1011,5025,1 yr,0,287.94,UPI,East,4,1,Yes,4,Yes,5,No
+CUST1795,Male,37,13,Monthly,1785,10756,1 yr,5,179.15,NetBanking,West,0,1,No,3,No,2,No
+CUST1796,Female,34,8,Monthly,1741,15109,3 yr,2,231.84,UPI,West,2,4,No,4,Yes,4,Yes
+CUST1797,Male,47,27,Monthly,547,1710,2 yr,6,232.0,UPI,North,2,11,Yes,1,Yes,1,No
+CUST1798,Male,54,19,Monthly,1766,18112,1 yr,0,132.98,NetBanking,East,1,25,Yes,4,Yes,5,Yes
+CUST1799,Male,33,15,Monthly,1332,20967,1 yr,0,151.65,NetBanking,South,1,2,No,4,Yes,3,No
+CUST1800,Female,47,18,Yearly,1160,21401,3 yr,2,231.91,Credit Card,North,2,8,No,3,Yes,4,No
+CUST1801,Female,53,19,Yearly,719,23857,3 yr,2,283.59,UPI,South,0,12,Yes,1,No,4,No
+CUST1802,Male,37,10,Yearly,1759,8210,1 yr,0,168.55,UPI,West,3,6,Yes,3,Yes,5,Yes
+CUST1803,Male,29,10,Monthly,2330,10513,3 yr,0,214.31,UPI,North,0,4,Yes,3,Yes,3,No
+CUST1804,Male,25,27,Monthly,605,9902,2 yr,1,278.96,UPI,North,1,13,Yes,1,No,3,No
+CUST1805,Male,35,29,Monthly,603,11832,3 yr,6,186.59,NetBanking,East,4,8,No,3,No,2,No
+CUST1806,Female,44,1,Yearly,2519,7482,2 yr,5,159.56,Credit Card,West,2,25,Yes,1,Yes,2,No
+CUST1807,Male,32,28,Yearly,1553,20589,3 yr,0,170.84,NetBanking,West,1,24,Yes,4,No,1,Yes
+CUST1808,Male,59,29,Yearly,1554,19512,3 yr,4,155.14,Credit Card,South,3,6,No,3,Yes,1,No
+CUST1809,Female,18,6,Yearly,1451,5145,1 yr,2,251.54,NetBanking,South,3,24,No,4,Yes,1,No
+CUST1810,Female,42,23,Yearly,2865,21239,1 yr,0,271.02,UPI,North,0,10,No,1,No,3,No
+CUST1811,Female,24,5,Yearly,2178,19666,1 yr,4,157.94,UPI,West,2,10,No,3,Yes,5,No
+CUST1812,Female,38,18,Yearly,2810,4618,2 yr,5,228.54,Credit Card,North,1,6,Yes,1,Yes,1,No
+CUST1813,Male,27,18,Monthly,1906,3112,1 yr,1,175.76,Credit Card,East,2,21,No,1,No,1,No
+CUST1814,Female,32,3,Yearly,1113,10496,3 yr,0,185.96,UPI,South,4,7,No,2,No,5,No
+CUST1815,Female,31,30,Yearly,2266,6326,1 yr,3,183.64,Credit Card,North,0,8,Yes,2,No,3,No
+CUST1816,Female,23,5,Monthly,608,1905,3 yr,1,142.76,NetBanking,North,2,11,Yes,3,No,4,No
+CUST1817,Female,30,23,Yearly,2101,21685,2 yr,2,122.82,UPI,South,4,8,No,1,Yes,5,No
+CUST1818,Female,32,10,Yearly,2758,24703,3 yr,6,249.17,NetBanking,North,0,16,Yes,3,Yes,5,No
+CUST1819,Female,53,26,Monthly,2082,14387,2 yr,6,203.97,Credit Card,East,4,22,Yes,2,Yes,3,No
+CUST1820,Female,23,12,Monthly,1142,21596,3 yr,5,177.0,NetBanking,West,4,28,Yes,1,No,1,Yes
+CUST1821,Female,58,19,Yearly,1535,23431,1 yr,1,133.59,NetBanking,North,0,13,No,3,No,1,No
+CUST1822,Male,46,4,Monthly,2235,1398,1 yr,4,65.73,NetBanking,North,3,28,Yes,2,No,1,No
+CUST1823,Male,22,1,Yearly,1277,9956,2 yr,0,195.99,UPI,East,3,29,Yes,3,No,3,No
+CUST1824,Female,22,13,Yearly,1410,6016,1 yr,5,272.12,NetBanking,North,1,28,No,1,No,4,No
+CUST1825,Female,46,28,Monthly,2583,14910,2 yr,6,179.18,NetBanking,South,4,15,Yes,2,No,1,No
+CUST1826,Male,27,11,Yearly,1334,2888,1 yr,1,171.73,UPI,South,1,11,No,3,No,5,No
+CUST1827,Female,44,10,Monthly,2887,12053,2 yr,2,190.78,UPI,West,2,2,No,4,Yes,2,Yes
+CUST1828,Female,26,22,Yearly,2066,22900,3 yr,2,75.46,Credit Card,West,0,15,Yes,3,No,1,Yes
+CUST1829,Male,28,24,Yearly,583,1047,1 yr,6,260.63,Credit Card,South,2,12,No,1,No,3,No
+CUST1830,Male,55,12,Monthly,2143,3543,2 yr,6,249.58,NetBanking,South,1,4,No,3,Yes,2,No
+CUST1831,Female,20,25,Yearly,2357,14129,2 yr,1,161.02,UPI,South,1,7,No,3,Yes,2,No
+CUST1832,Male,49,5,Yearly,1138,15157,2 yr,2,270.74,NetBanking,South,2,26,No,4,No,4,No
+CUST1833,Female,29,29,Monthly,1041,12052,2 yr,4,122.23,Credit Card,East,0,16,Yes,2,Yes,1,No
+CUST1834,Male,20,11,Monthly,1198,13012,1 yr,1,114.75,Credit Card,East,1,9,Yes,3,No,1,No
+CUST1835,Male,32,8,Monthly,960,20150,2 yr,1,163.55,NetBanking,West,1,5,Yes,3,No,2,No
+CUST1836,Female,57,28,Monthly,2231,12756,3 yr,2,137.54,Credit Card,West,0,9,No,2,Yes,2,No
+CUST1837,Male,45,28,Monthly,2145,20497,2 yr,6,220.52,UPI,North,2,21,Yes,3,No,3,No
+CUST1838,Female,34,18,Yearly,2854,12775,3 yr,4,257.32,Credit Card,West,1,26,Yes,4,Yes,2,No
+CUST1839,Female,57,33,Monthly,1617,10823,3 yr,2,134.27,UPI,South,0,18,No,2,No,3,No
+CUST1840,Male,33,35,Yearly,1793,17681,1 yr,2,168.14,UPI,East,0,17,Yes,4,Yes,5,No
+CUST1841,Male,49,11,Yearly,1885,9119,1 yr,6,168.73,Credit Card,South,4,16,Yes,2,No,3,Yes
+CUST1842,Female,30,34,Yearly,2073,20976,3 yr,0,283.28,NetBanking,East,3,12,Yes,1,No,3,Yes
+CUST1843,Male,19,16,Monthly,2068,14187,3 yr,6,66.45,Credit Card,South,1,7,No,1,Yes,4,No
+CUST1844,Female,27,33,Monthly,1155,15263,3 yr,3,174.25,Credit Card,West,4,16,No,1,No,4,No
+CUST1845,Male,19,2,Yearly,2270,19628,2 yr,5,107.35,NetBanking,North,4,5,No,4,Yes,3,No
+CUST1846,Female,54,34,Monthly,1978,3431,1 yr,0,120.01,Credit Card,East,4,14,No,1,No,3,Yes
+CUST1847,Female,29,25,Monthly,1691,19637,2 yr,6,172.31,NetBanking,South,4,14,Yes,2,Yes,5,No
+CUST1848,Female,56,34,Yearly,2900,6522,2 yr,4,283.65,Credit Card,South,0,20,No,4,Yes,3,No
+CUST1849,Male,42,14,Yearly,2586,22261,2 yr,1,170.44,UPI,East,1,1,No,4,Yes,5,No
+CUST1850,Male,55,22,Monthly,763,7567,3 yr,0,103.3,NetBanking,West,1,16,Yes,4,Yes,3,No
+CUST1851,Male,28,27,Yearly,1324,18648,2 yr,5,211.36,Credit Card,North,2,19,No,2,No,4,No
+CUST1852,Male,23,4,Yearly,2218,9702,3 yr,4,264.96,Credit Card,South,0,14,Yes,1,No,4,No
+CUST1853,Female,20,28,Yearly,958,19270,2 yr,2,164.88,Credit Card,North,3,1,Yes,3,No,1,Yes
+CUST1854,Male,30,35,Yearly,1645,24089,2 yr,4,249.35,NetBanking,South,3,11,Yes,2,Yes,4,Yes
+CUST1855,Male,24,13,Yearly,1819,4682,3 yr,0,79.85,NetBanking,East,2,22,No,1,No,3,No
+CUST1856,Male,52,12,Monthly,566,5490,1 yr,0,104.89,NetBanking,South,2,26,No,1,Yes,3,No
+CUST1857,Male,38,12,Yearly,2531,9952,2 yr,1,299.18,Credit Card,East,1,8,No,1,Yes,3,Yes
+CUST1858,Female,25,35,Monthly,1417,7546,2 yr,0,250.73,UPI,South,2,1,No,4,Yes,1,No
+CUST1859,Female,56,29,Monthly,1104,16343,1 yr,6,152.32,Credit Card,North,1,2,No,1,No,4,Yes
+CUST1860,Female,26,23,Yearly,2976,15883,3 yr,0,217.29,Credit Card,North,0,7,Yes,1,Yes,5,No
+CUST1861,Male,38,28,Monthly,1826,5200,1 yr,2,179.83,UPI,North,2,29,No,4,Yes,1,No
+CUST1862,Male,19,15,Yearly,1907,19644,3 yr,5,52.97,NetBanking,East,4,17,No,1,No,1,No
+CUST1863,Male,20,25,Monthly,2063,12866,3 yr,0,239.29,Credit Card,South,3,8,No,2,Yes,1,Yes
+CUST1864,Male,27,5,Monthly,1654,23224,1 yr,6,218.46,Credit Card,South,0,29,No,3,No,3,Yes
+CUST1865,Male,57,11,Yearly,1311,3928,1 yr,3,56.38,NetBanking,North,1,2,Yes,2,Yes,4,No
+CUST1866,Female,46,15,Yearly,1060,1758,2 yr,5,245.3,Credit Card,South,4,15,No,4,No,5,Yes
+CUST1867,Female,23,17,Yearly,2727,11103,3 yr,1,64.8,NetBanking,South,0,21,Yes,2,No,2,Yes
+CUST1868,Female,35,28,Yearly,2282,1817,1 yr,0,157.66,NetBanking,South,1,3,No,4,No,1,Yes
+CUST1869,Male,53,11,Yearly,1634,4639,2 yr,0,236.1,NetBanking,East,2,17,No,3,Yes,4,No
+CUST1870,Male,44,4,Yearly,2457,17140,1 yr,4,97.66,Credit Card,North,4,15,No,3,No,3,No
+CUST1871,Male,23,16,Yearly,1053,11919,1 yr,4,107.51,Credit Card,South,1,17,No,4,Yes,1,Yes
+CUST1872,Female,23,9,Monthly,2583,5799,3 yr,4,141.27,NetBanking,East,0,29,Yes,3,Yes,5,No
+CUST1873,Female,45,19,Yearly,1207,7610,2 yr,4,269.78,UPI,South,1,10,No,3,No,1,Yes
+CUST1874,Male,42,13,Yearly,2120,2184,1 yr,5,277.76,UPI,South,2,16,Yes,4,Yes,4,Yes
+CUST1875,Male,46,34,Yearly,2907,23755,1 yr,0,239.7,Credit Card,East,4,1,Yes,4,No,5,No
+CUST1876,Female,59,6,Monthly,2872,21378,1 yr,4,291.85,NetBanking,South,1,13,Yes,3,Yes,2,No
+CUST1877,Male,27,16,Monthly,1018,13953,2 yr,4,200.26,NetBanking,South,4,8,Yes,1,No,1,No
+CUST1878,Male,32,24,Yearly,1650,23004,3 yr,3,69.62,NetBanking,North,3,21,No,1,No,3,No
+CUST1879,Female,48,25,Monthly,604,6316,1 yr,3,288.02,Credit Card,South,4,14,No,1,No,3,No
+CUST1880,Male,22,14,Monthly,2340,23760,3 yr,4,133.49,UPI,South,1,4,Yes,3,No,5,No
+CUST1881,Male,42,14,Yearly,1035,12000,3 yr,5,225.19,UPI,South,4,27,Yes,3,Yes,1,No
+CUST1882,Female,22,8,Monthly,2769,13837,1 yr,2,55.06,NetBanking,South,4,11,No,2,No,1,No
+CUST1883,Female,18,27,Monthly,1731,22238,2 yr,0,119.53,Credit Card,West,0,14,No,4,No,1,Yes
+CUST1884,Male,22,32,Yearly,1282,4228,1 yr,3,108.61,Credit Card,North,1,13,Yes,1,No,4,No
+CUST1885,Male,53,27,Yearly,1376,17000,2 yr,4,285.35,NetBanking,West,2,12,No,1,No,3,Yes
+CUST1886,Female,50,5,Monthly,2711,15733,3 yr,4,232.75,Credit Card,North,0,1,Yes,1,No,3,No
+CUST1887,Male,18,18,Yearly,1230,15169,1 yr,0,97.84,NetBanking,North,4,25,Yes,3,Yes,3,No
+CUST1888,Male,18,14,Monthly,1918,1099,2 yr,1,188.09,UPI,East,3,22,No,1,No,3,Yes
+CUST1889,Female,24,31,Yearly,915,13340,3 yr,1,290.46,Credit Card,North,1,3,Yes,1,No,1,No
+CUST1890,Female,34,19,Monthly,1432,17813,2 yr,6,276.42,Credit Card,West,0,25,No,1,No,3,Yes
+CUST1891,Male,58,6,Yearly,1050,16542,3 yr,4,93.27,UPI,South,3,20,No,3,Yes,1,No
+CUST1892,Female,38,10,Monthly,2578,4259,1 yr,2,101.1,Credit Card,South,4,3,Yes,1,No,1,No
+CUST1893,Female,59,12,Yearly,1739,13524,2 yr,0,197.7,Credit Card,East,0,28,Yes,2,Yes,2,No
+CUST1894,Male,23,23,Yearly,691,23425,1 yr,0,160.6,NetBanking,West,2,20,Yes,3,No,1,No
+CUST1895,Female,43,19,Monthly,2045,20553,3 yr,5,103.78,UPI,East,3,26,No,2,No,4,No
+CUST1896,Female,37,28,Monthly,2459,23139,1 yr,2,61.08,UPI,West,1,1,No,1,No,1,No
+CUST1897,Male,18,8,Yearly,1407,15114,3 yr,6,52.7,NetBanking,East,4,26,Yes,4,No,2,Yes
+CUST1898,Male,27,21,Yearly,808,20034,1 yr,2,235.66,Credit Card,South,0,8,No,2,No,1,No
+CUST1899,Female,18,18,Monthly,2217,14429,3 yr,0,74.09,NetBanking,North,1,23,Yes,1,No,3,No
+CUST1900,Male,29,8,Monthly,2037,22696,2 yr,1,150.69,NetBanking,East,2,23,Yes,3,Yes,3,No
+CUST1901,Male,56,22,Yearly,2966,11538,2 yr,5,241.93,NetBanking,East,4,12,No,3,No,3,No
+CUST1902,Female,35,19,Yearly,1686,22782,3 yr,1,273.74,UPI,North,1,8,Yes,2,No,5,No
+CUST1903,Male,57,34,Monthly,736,17777,1 yr,0,218.03,UPI,South,2,10,Yes,2,Yes,2,No
+CUST1904,Female,31,24,Yearly,709,16228,2 yr,3,242.98,UPI,South,3,5,Yes,4,No,4,No
+CUST1905,Female,48,6,Yearly,1460,19840,2 yr,6,276.81,NetBanking,East,3,28,Yes,3,No,5,No
+CUST1906,Male,29,8,Yearly,595,9846,1 yr,1,73.65,Credit Card,North,4,5,No,4,Yes,3,Yes
+CUST1907,Female,37,27,Yearly,2015,24197,3 yr,1,52.23,Credit Card,West,1,9,No,1,Yes,2,Yes
+CUST1908,Female,56,6,Yearly,1762,6895,2 yr,4,159.47,Credit Card,West,3,4,Yes,1,No,1,No
+CUST1909,Female,50,20,Monthly,2495,3067,3 yr,5,262.66,Credit Card,East,2,10,Yes,1,Yes,5,Yes
+CUST1910,Female,30,31,Monthly,519,24523,3 yr,2,265.66,NetBanking,North,3,27,Yes,4,Yes,2,No
+CUST1911,Female,32,30,Yearly,701,14561,2 yr,6,134.64,NetBanking,South,2,5,No,4,Yes,3,Yes
+CUST1912,Female,23,35,Yearly,1218,20021,1 yr,0,79.94,NetBanking,North,0,15,No,1,No,2,No
+CUST1913,Female,24,18,Monthly,2318,24934,3 yr,0,293.44,UPI,West,0,23,Yes,3,Yes,2,No
+CUST1914,Female,42,15,Monthly,2075,8882,2 yr,3,229.24,NetBanking,North,1,14,No,4,Yes,3,Yes
+CUST1915,Female,58,2,Monthly,2469,11365,3 yr,2,271.39,NetBanking,South,1,17,Yes,1,No,2,No
+CUST1916,Male,53,35,Monthly,2905,18109,3 yr,3,171.92,UPI,North,4,19,Yes,4,Yes,5,No
+CUST1917,Male,24,35,Monthly,1641,6048,1 yr,3,62.8,Credit Card,East,0,11,No,1,Yes,1,No
+CUST1918,Female,30,30,Monthly,1732,23556,2 yr,5,224.96,NetBanking,East,0,27,No,2,No,4,No
+CUST1919,Male,24,23,Yearly,2542,5455,1 yr,2,256.11,UPI,West,1,17,No,2,Yes,2,No
+CUST1920,Male,44,2,Yearly,2621,17965,2 yr,5,239.01,NetBanking,South,2,9,Yes,2,Yes,3,No
+CUST1921,Male,39,25,Yearly,2594,8186,3 yr,0,120.6,Credit Card,South,4,11,No,1,Yes,3,No
+CUST1922,Male,47,21,Yearly,2278,13522,2 yr,2,121.97,UPI,West,4,5,No,2,No,2,No
+CUST1923,Female,26,8,Yearly,989,21085,1 yr,2,245.43,UPI,West,2,16,No,3,No,5,No
+CUST1924,Female,43,17,Yearly,2503,18034,2 yr,3,69.43,Credit Card,North,3,13,No,2,Yes,4,No
+CUST1925,Female,26,23,Yearly,1065,13265,2 yr,5,222.49,UPI,South,4,18,Yes,3,Yes,1,Yes
+CUST1926,Female,35,12,Yearly,2996,23147,1 yr,1,153.82,Credit Card,North,2,9,No,1,Yes,5,No
+CUST1927,Male,27,1,Yearly,628,5350,2 yr,6,132.01,UPI,West,2,6,No,3,Yes,1,No
+CUST1928,Male,35,7,Yearly,1367,8913,3 yr,3,56.47,UPI,East,0,7,Yes,3,No,4,Yes
+CUST1929,Female,27,3,Monthly,2717,21587,2 yr,0,214.98,UPI,South,2,17,Yes,2,Yes,2,No
+CUST1930,Female,57,13,Monthly,2418,17672,2 yr,4,133.12,UPI,East,1,13,Yes,4,Yes,1,No
+CUST1931,Male,40,9,Yearly,2390,9888,1 yr,6,229.48,Credit Card,North,2,26,No,4,Yes,2,Yes
+CUST1932,Female,26,11,Monthly,1082,9151,3 yr,5,214.8,UPI,South,2,3,Yes,2,No,4,No
+CUST1933,Male,19,11,Monthly,2737,5990,3 yr,2,203.47,NetBanking,East,3,18,No,2,Yes,4,Yes
+CUST1934,Female,34,2,Monthly,2273,24272,3 yr,2,104.63,UPI,East,4,10,No,2,Yes,5,No
+CUST1935,Male,45,30,Yearly,1166,3415,3 yr,6,93.88,UPI,East,4,6,Yes,3,No,1,No
+CUST1936,Female,23,4,Monthly,814,7631,3 yr,1,181.22,NetBanking,South,2,9,Yes,1,Yes,5,No
+CUST1937,Male,44,9,Monthly,1557,1821,1 yr,0,64.72,NetBanking,North,1,23,No,2,No,3,No
+CUST1938,Female,20,25,Monthly,1049,18927,1 yr,0,187.96,UPI,South,1,4,Yes,2,No,5,No
+CUST1939,Male,51,28,Yearly,2739,6306,1 yr,0,244.2,Credit Card,North,0,17,Yes,2,Yes,2,No
+CUST1940,Male,54,34,Monthly,2100,15388,1 yr,6,182.81,Credit Card,South,3,18,No,4,No,3,Yes
+CUST1941,Female,45,21,Monthly,2199,13866,3 yr,0,251.78,UPI,East,0,10,No,4,Yes,4,No
+CUST1942,Female,51,14,Monthly,1869,23698,3 yr,1,79.8,NetBanking,North,0,18,Yes,3,Yes,1,No
+CUST1943,Male,41,26,Monthly,2128,16918,3 yr,1,181.43,Credit Card,East,3,10,No,1,Yes,5,No
+CUST1944,Male,38,27,Yearly,2023,13768,1 yr,0,109.19,NetBanking,North,0,23,No,2,No,3,No
+CUST1945,Female,50,22,Monthly,2075,20838,3 yr,5,72.92,Credit Card,North,1,21,Yes,4,No,3,No
+CUST1946,Male,22,20,Yearly,2108,14021,3 yr,0,95.61,Credit Card,West,0,14,Yes,4,No,3,No
+CUST1947,Female,49,24,Yearly,992,4939,2 yr,5,157.04,UPI,South,0,25,No,4,No,2,No
+CUST1948,Female,35,19,Yearly,784,7684,1 yr,5,151.19,NetBanking,West,1,4,Yes,3,No,5,Yes
+CUST1949,Female,50,20,Monthly,1628,14806,3 yr,1,179.44,UPI,North,1,13,No,2,Yes,3,No
+CUST1950,Female,28,3,Yearly,763,19137,3 yr,1,89.43,UPI,West,4,12,No,4,Yes,3,No
+CUST1951,Female,47,1,Monthly,1575,23087,1 yr,4,66.1,NetBanking,West,4,13,Yes,1,Yes,1,No
+CUST1952,Female,46,22,Monthly,1711,5107,1 yr,4,112.66,Credit Card,West,2,11,Yes,1,No,2,No
+CUST1953,Female,27,25,Monthly,1259,19540,3 yr,4,189.14,Credit Card,South,2,15,Yes,4,No,3,Yes
+CUST1954,Male,41,20,Monthly,1174,2186,1 yr,4,114.96,Credit Card,North,1,18,Yes,1,Yes,1,No
+CUST1955,Male,49,1,Monthly,1763,8504,2 yr,1,231.71,UPI,West,3,18,Yes,2,Yes,4,Yes
+CUST1956,Female,27,26,Monthly,2416,21023,3 yr,5,238.14,NetBanking,North,3,1,Yes,4,No,1,No
+CUST1957,Male,21,6,Monthly,2379,20207,1 yr,6,231.51,UPI,South,1,10,No,2,Yes,3,No
+CUST1958,Female,37,23,Monthly,734,5540,3 yr,4,271.99,Credit Card,North,3,3,Yes,2,Yes,5,Yes
+CUST1959,Female,47,25,Monthly,2484,16799,2 yr,4,181.01,NetBanking,East,3,16,No,1,Yes,4,No
+CUST1960,Male,32,35,Yearly,1452,2506,2 yr,1,216.98,NetBanking,East,4,17,Yes,4,No,5,No
+CUST1961,Female,25,21,Yearly,2354,21379,1 yr,2,97.95,Credit Card,East,2,4,No,3,Yes,4,No
+CUST1962,Male,41,19,Yearly,1802,14613,2 yr,3,57.48,Credit Card,North,3,4,No,3,Yes,2,No
+CUST1963,Female,55,34,Monthly,1210,4971,3 yr,3,122.51,Credit Card,North,4,23,No,4,Yes,5,No
+CUST1964,Female,40,1,Yearly,2768,18683,3 yr,1,157.33,NetBanking,North,2,14,Yes,2,No,2,No
+CUST1965,Female,34,11,Monthly,2489,15702,2 yr,4,275.97,UPI,South,0,9,No,2,No,1,No
+CUST1966,Male,50,13,Yearly,1918,12581,2 yr,1,180.09,NetBanking,North,3,7,No,3,Yes,4,No
+CUST1967,Male,32,8,Yearly,2875,11952,1 yr,2,146.37,UPI,South,1,16,Yes,2,No,1,Yes
+CUST1968,Female,43,35,Monthly,2134,16675,3 yr,5,51.6,Credit Card,East,2,13,Yes,4,No,1,No
+CUST1969,Female,38,19,Monthly,1940,3886,3 yr,1,85.41,Credit Card,East,3,12,No,1,Yes,2,No
+CUST1970,Male,50,16,Monthly,1751,18206,2 yr,1,235.22,NetBanking,East,1,18,No,4,Yes,4,No
+CUST1971,Male,19,32,Yearly,623,3571,3 yr,2,239.47,UPI,North,2,18,No,2,No,4,No
+CUST1972,Male,48,11,Monthly,1047,3425,3 yr,4,185.15,UPI,West,1,26,Yes,3,Yes,1,No
+CUST1973,Male,44,15,Monthly,2670,19888,3 yr,4,203.55,Credit Card,North,1,2,Yes,4,No,4,No
+CUST1974,Male,30,3,Yearly,2480,15974,3 yr,2,163.72,NetBanking,North,2,20,No,3,Yes,3,No
+CUST1975,Male,22,30,Yearly,1009,19496,1 yr,3,118.58,NetBanking,West,4,1,No,2,Yes,1,No
+CUST1976,Female,52,13,Yearly,1822,19689,1 yr,6,99.88,UPI,North,1,26,No,4,Yes,2,Yes
+CUST1977,Female,54,29,Monthly,1895,1673,2 yr,2,260.35,UPI,West,1,12,No,1,No,2,No
+CUST1978,Male,37,12,Yearly,962,6295,2 yr,3,169.47,UPI,West,0,13,No,2,No,1,No
+CUST1979,Male,18,28,Monthly,2032,6436,1 yr,5,122.22,UPI,East,3,22,Yes,4,No,1,No
+CUST1980,Male,47,16,Yearly,1890,1425,3 yr,6,228.17,NetBanking,East,0,6,No,3,Yes,1,No
+CUST1981,Female,25,35,Monthly,1449,11992,2 yr,3,266.2,NetBanking,South,4,22,No,4,No,1,Yes
+CUST1982,Female,25,3,Monthly,934,12700,2 yr,1,207.95,UPI,South,2,27,No,3,Yes,3,No
+CUST1983,Female,46,17,Monthly,1284,11848,1 yr,6,144.42,UPI,North,3,24,No,4,Yes,5,No
+CUST1984,Male,57,32,Yearly,2659,9661,2 yr,5,199.9,Credit Card,South,1,21,No,2,Yes,2,No
+CUST1985,Male,33,17,Yearly,1928,24716,1 yr,5,193.06,UPI,North,0,1,Yes,3,Yes,3,No
+CUST1986,Female,43,14,Monthly,1737,14858,1 yr,4,145.46,NetBanking,North,4,15,No,1,Yes,3,No
+CUST1987,Male,33,16,Monthly,791,2574,2 yr,0,117.84,NetBanking,North,4,4,No,3,Yes,2,No
+CUST1988,Female,29,2,Monthly,2711,8052,3 yr,0,261.28,UPI,North,1,22,Yes,2,No,3,No
+CUST1989,Male,21,26,Monthly,2675,15803,1 yr,0,270.21,Credit Card,West,2,2,Yes,2,No,4,No
+CUST1990,Female,37,21,Monthly,518,12648,1 yr,2,74.17,NetBanking,South,4,6,No,2,Yes,5,No
+CUST1991,Female,28,25,Yearly,2749,8934,1 yr,3,98.72,Credit Card,South,3,25,No,4,No,1,No
+CUST1992,Male,18,3,Monthly,1820,1852,2 yr,0,261.16,Credit Card,North,1,9,No,4,Yes,5,Yes
+CUST1993,Male,58,32,Yearly,1985,23544,3 yr,3,187.27,UPI,West,0,22,Yes,3,Yes,3,No
+CUST1994,Male,49,15,Monthly,955,10447,1 yr,2,76.92,Credit Card,North,4,5,No,2,Yes,1,Yes
+CUST1995,Male,40,27,Yearly,1110,7247,1 yr,1,269.81,UPI,North,1,1,No,3,Yes,4,No
+CUST1996,Male,48,12,Yearly,2095,4173,1 yr,5,62.48,Credit Card,West,4,26,Yes,3,Yes,1,No
+CUST1997,Female,21,34,Monthly,512,1940,2 yr,5,86.91,UPI,West,3,5,Yes,2,Yes,5,No
+CUST1998,Female,48,13,Yearly,1440,2218,3 yr,3,202.72,NetBanking,West,4,10,Yes,4,No,1,No
+CUST1999,Male,52,15,Monthly,1086,23591,2 yr,3,254.93,Credit Card,South,2,12,Yes,1,Yes,1,No
